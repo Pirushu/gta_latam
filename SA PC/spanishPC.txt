@@ -1,200 +1,233 @@
 ﻿[FET_MFL]
-VUELO CON RATÓN
+FLY WITH MOUSE
+
+[FEH_JMP]
+CLICK LMB / RETURN - ENTER MENU
+
+[FEH_BPO]
+CLICK LMB / RETURN - BACK
+
+[FEH_SNC]
+CLICK LMB / RETURN - SCAN USER TRACKS
+
+[FEC_SLC]
+Save game corrupted
+
+[NO_PAK]
+Load failed!~n~~n~The current Mission Pack is not available. Please recheck that the current Mission Pack is installed correctly.~n~~n~Press RETURN to start a new standard game.
+
+[FEC_AST]
+Asterisk
+
+[FED_RDP]
+Are you sure you want to reset your current settings to default?
+
+[FEC_RTS]
+User track skip
+
+[FED_GLS]
+STORE GALLERY PHOTOS
+
+[FEL_CHE]
+Changing your language settings will reset your controls to their default configuration and your current control configuration will be lost. Are you sure you want to change language?
+
+[FED_FXV]
+VERY HIGH
 
 [FET_DEF]
-Restablecer predeterminados
+Restore Defaults
 
 [FEC_LBH]
-Mirar tras el vehículo
+Look Behind Vehicle
 
 [FEC_LLF]
-Mirar a la izquierda del vehículo
+Look Left of Vehicle
 
 [FEC_LRG]
-Mirar a la derecha del vehículo
+Look Right of Vehicle
 
 [FEC_HRN]
-Claxon
+Horn
 
 [FEC_HBR]
-Freno de mano del vehículo
+Vehicle Handbrake
 
 [FEC_ACL]
-Acelerador del vehículo
+Vehicle Accelerate
 
 [FEC_BRK]
-Freno del vehículo
+Vehicle Brake
 
 [FEC_TSM]
-Alternar submisiones
+Toggle SubMissions
 
 [FEC_ENT]
-Entrar/Salir del vehículo
+Enter/Exit Vehicle
 
 [FEC_WPN]
-Disparar arma
+Fire Weapon
 
 [FEC_PAS]
-Pausa
+Pause
 
 [FEC_FPO]
-Armas en primera persona
+1st Person Weapons
 
 [FEC_SMS]
-Mostrar cursor del ratón
+Show mouse pointer
 
 [FEC_CMS]
-Cambiar modo de cámara en todas las situaciones
+Change camera mode all situations.
 
 [FEC_TSS]
-Hacer captura de pantalla
+Take Screen Shot
 
 [FEC_DBG]
-MENÚ DE DEBUG
+DEBUG MENU
 
 [FEC_TGD]
-Alternar mando/Debug
+Toggle Pad Game/Debug
 
 [FEC_TDO]
-Desactivar cámara de Debug
+Turn Debug Camera Off
 
 [FEC_IVH]
-Invertir ratón horizontalmente:
+Invert Mouse Horizontally:
 
 [FEC_MSL]
-BIR
+LMB
 
 [FEC_MSM]
-BMR
+MMB
 
 [FEC_MSR]
-BDR
+RMB
 
 [FEC_QUE]
 ???
 
 [FEC_TWO]
-Solo se permiten dos teclas del teclado
+Only Two Keyboard Keys Allowed
 
 [FEC_UMS]
-Solo botones del ratón únicos
+Unique Mouse Key only please.
 
 [FEC_OMS]
-Solo se permite un botón del ratón
+Only One Mouse Key Allowed
 
 [FEC_UJS]
-Solo botones únicos del joystick
+Unique Joystick button only please.
 
 [FEC_OJS]
-Solo se permite un botón del joystick por acción
+Only One Joystick Buttons per action allowed
 
 [FEC_PTL]
-Usa fijar blancos con cambio de arma a la izquierda.
+Use LockTarget with Weapon Switch Left.
 
 [FEC_PTR]
-Usa fijar blancos con cambio de arma a la derecha.
+Use LockTarget with Weapon Switch Right.
 
 [FEC_LBC]
-Usa mirar a la izquierda y mirar a la derecha.
+Use Look Left With Look Right.
 
 [FEC_JBO]
 JOY~1~
 
 [FEC_WAR]
-Aviso
+Warning
 
 [FEC_OKK]
-Aceptar
+O.K.
 
 [FEC_DLF]
-Error al eliminar.
+Delete Failed.
 
 [FEC_SVU]
-Error al guardar.
+Save Unsuccessful.
 
 [FEC_LUN]
-Error al cargar. Archivo dañado, hay que borrarlo.
+Load Unsuccessful. File Corrupted, Please delete.
 
 [FEC_PAD]
-Mando
+Gamepad
 
 [FEC_JOY]
 Joystick
 
 [FET_HRD]
-VALORES PREDETERMINADOS RESTABLECIDOS
+DEFAULT SETTINGS RESTORED
 
 [FET_MST]
-DIRECCIÓN CON EL RATÓN
+STEER WITH MOUSE
 
 [FECSTAR]
-TEC_NUM_AST.
+NUM STAR
 
 [FET_MIG]
-IZQUIERDA/DERECHA/RUEDA DEL RATÓN: AJUSTAR
+LEFT / RIGHT / MOUSEWHEEL - ADJUST
 
 [FET_CIG]
-RETROCESO: DESPEJAR~n~CLIC EN BIR/INTRO: CAMBIAR
+BACKSPACE - CLEAR~n~CLICK LMB / RETURN - CHANGE
 
 [FET_RSO]
-AJUSTE ORIGINAL RESTABLECIDO
+ORIGINAL SETTING RESTORED
 
 [FEM_LOD]
-DISTANCIA DE DIBUJADO
+DRAW DISTANCE
 
 [FEM_FRM]
-LIMITAR CUADROS P. SEGUNDO
+FRAME LIMITER
 
 [FEM_MM]
-Menú principal
+Main Menu
 
 [FED_RES]
-RESOLUCIÓN
+RESOLUTION
 
 [FET_CTL]
-Configuración de controles
+Controller Setup
 
 [FET_OPT]
-Opciones
+Options
 
 [FEC_MSH]
-SENSIBILIDAD DEL RATÓN
+MOUSE SENSITIVITY
 
 [FEC_IVV]
-INVERTIR RATÓN VERTICALMENTE
+INVERT MOUSE VERTICALLY
 
 [FEC_FNC]
 F~1~
 
 [FEC_IRT]
-INSERT
+INS
 
 [FEC_DLL]
-SUPR
+DEL
 
 [FEC_HME]
-INICIO
+HOME
 
 [FEC_END]
-FIN
+END
 
 [FEC_PGU]
-RE_PÁG
+PGUP
 
 [FEC_PGD]
-AV_PÁG
+PGDN
 
 [FEC_UPA]
-ARRIBA
+UP
 
 [FEC_DWA]
-ABAJO
+DOWN
 
 [FEC_LFA]
-IZQUIERDA
+LEFT
 
 [FEC_RFA]
-DERECHA
+RIGHT
 
 [FEC_NUM]
 NUM
@@ -203,184 +236,184 @@ NUM
 NUM~1~
 
 [FEC_FWS]
-TEC_NUM_/
+NUM /
 
 [FEC_PLS]
-TEC_NUM_+
+NUM +
 
 [FEC_MIN]
-TEC_NUM_-
+NUM -
 
 [FEC_DOT]
-TEC_NUM.
+NUM .
 
 [FEC_NLK]
-BLOQ_NUM
+NUMLOCK
 
 [FEC_ETR]
-INTRO
+ENT
 
 [FEC_SLK]
-BLOQ_DESPL
+SCROLL LOCK
 
 [FEC_PSB]
-PAUSA
+BREAK
 
 [FEC_BSP]
-RETROCESO
+BSPACE
 
 [FEC_TAB]
 TAB
 
 [FEC_CLK]
-BLOQ_MAYÚS
+CAPSLOCK
 
 [FEC_RTN]
-INTRO
+RETURN
 
 [FEC_LSF]
-MAYÚS_IZQ.
+LSHIFT
 
 [FEC_RSF]
-MAYÚS_DER.
+RSHIFT
 
 [FEC_LCT]
-CTRL_IZQ.
+LCTRL
 
 [FEC_RCT]
-CTRL_DER.
+RCTRL
 
 [FEC_LAL]
-ALT_IZQ.
+LALT
 
 [FEC_RAL]
-ALT_DER.
+RALT
 
 [FEC_LWD]
-WIN_IZQ.
+LWIN
 
 [FEC_RWD]
-WIN_DER.
+RWIN
 
 [FEC_WRC]
-CLIC_WIN
+WINCLICK
 
 [FEC_SPC]
-ESPACIO
+SPACE
 
 [WIN_TTL]
 Grand Theft Auto SA
 
 [WIN_95]
-Grand Theft Auto SA no puede ejecutarse en Windows 95.
+Grand Theft Auto SA cannot run on Windows 95
 
 [WIN_DX]
-Grand Theft Auto SA requiere al menos DirectX version 9.0.
+Grand Theft Auto SA requires at least DirectX version 9.0
 
 [FET_EIG]
-NO SE PUEDE ESTABLECER UN CONTROL PARA ESTA ACCIÓN
+CANNOT SET A CONTROL FOR THIS ACTION
 
 [FEQ_SRE]
-¿Seguro que quieres salir? Todo el progreso desde que guardaste la partida por última vez se perderá. ¿Continuar?
+Are you sure you want to quit? All progress since the last save game will be lost. Proceed?
 
 [FEQ_SRW]
-¿Seguro que quieres salir del juego?
+Are you sure you want to quit the game?
 
 [FET_QG]
-Salir del juego
+Quit Game
 
 [FEN_STA]
-INICIAR JUEGO
+START GAME
 
 [FET_PAU]
-Menú de pausa
+Pause Menu
 
 [REPLAY]
-REPETICIÓN
+REPLAY
 
 [FEC_ANS]
-Acción
+Action
 
 [CVT_MSG]
-Convertir texturas al formato óptimo para tu tarjeta gráfica.
+Converting textures to optimal format for your video card
 
 [FEC_SFT]
-MAYÚS
+SHIFT
 
 [FEH_VMP]
-VER_MAPA
+VIEW MAP
 
 [PCRESRT]
-Iniciando una nueva partida. Espera...
+Starting new game. Please wait...
 
 [FEH_NA]
-OPCIÓN NO DISPONIBLE
+OPTION NOT AVAILABLE
 
 [FEH_MPH]
-LMB/CURSORES: DESPLAZAMIENTO~n~RE PÁG/AV PÁG/RUEDA DEL RATÓN: ZOOM~n~Z: VISTA GENERAL, L: LEYENDA~n~BDR/T: APUNTAR, ESPACIO: MENÚ DE ICONOS~n~ESC: VOLVER
+LMB/CURSORS - SCROLL~n~PGUP/PGDN/MSWHEEL - ZOOM~n~Z - OVERVIEW , L - LEGEND~n~RMB/T - TARGET , SPACEBAR - BLIPS MENU~n~ESC - BACK
 
 [FEA_MP3]
-CANCIONES DEL USUARIO
+USER TRACK PLAYER
 
 [NO_PCCD]
-Inserta tu CD de GTA San Andreas, o pulsa ESC para cancelar.
+Please insert your GTA San Andreas CD, or press ESC to cancel
 
 [FEH_SSA]
-CURSORES: MOVER~n~S: GUARDAR A ARCHIVO
+CURSORS - MOVE~n~S - SAVE TO FILE
 
 [FES_CMI]
-ÚLTIMA MISIÓN SUPERADA
+LAST MISSION PASSED
 
 [FET_STS]
-ESTADÍSTICAS GUARDADAS EN 'STATS.HTML'
+STATS SAVED TO 'STATS.HTML'
 
 [WIN_VDM]
-Falta memoria de vídeo para Grand Theft Auto SA
+Grand Theft Auto SA cannot find enough available video memory
 
 [WIN_NSC]
-Grand Theft Auto SA no detecta la tarjeta de sonido
+Grand Theft Auto SA cannot find Audio card installed
 
 [FEC_ERI]
-¡Error! Una o más acciones de control no están vinculadas a una tecla o botón. Comprueba que todas las acciones de control están establecidas.~n~Pulsa ESC para continuar.
+Error! One or more control actions are not bound to a key or button. Please check all control actions are set~n~Press ESC to continue
 
 [FEC_TFU]
-Ctrl especial arriba
+Special Ctrl Up
 
 [FEC_TFD]
-Ctrl especial abajo
+Special Ctrl Down
 
 [FET_RIG]
-SELECCIONA UN NUEVO CONTROL PARA ESTA ACCIÓN~n~ESC: CANCELAR
+SELECT A NEW CONTROL FOR THIS ACTION~n~ESC - CANCEL
 
 [CVT_ERR]
-Te has quedado sin espacio en el disco duro. Libera algo de espacio antes de continuar. Pulsa ESC para cancelar.
+You have run out of disk space. Please make some space on your harddisk before continuing. Press ESC to cancel.
 
 [FEC_GPF]
-Grupo Ctrl adelante
+Group Ctrl Forward
 
 [FEC_GPB]
-Grupo Ctrl atrás
+Group Ctrl Back
 
 [FEC_COY]
-Conversación: sí
+Conversation - Yes
 
 [FEC_CON]
-Conversación: no
+Conversation - No
 
 [FED_ADV]
-AVANZADAS
+ADVANCED
 
 [FED_FXQ]
-EFECTOS VISUALES
+VISUAL FX QUALITY
 
 [FED_FXH]
-ALTO
+HIGH
 
 [FED_FXM]
-MEDIO
+MEDIUM
 
 [FED_FXL]
-BAJO
+LOW
 
 [FED_MIP]
 MIP MAPPING
@@ -389,163 +422,130 @@ MIP MAPPING
 ANTI ALIASING
 
 [FEC_CFG]
-CONFIGURACIÓN
+CONFIGURATION
 
 [FES_LCG]
-¿Estás seguro de que quieres cargar esta partida guardada?
+Are you sure you want to load this save game?
 
 [FET_CCN]
-Mando
+Joypad
 
 [FET_SCN]
-Ratón + teclas
+Mouse + Keys
 
 [FET_CFT]
-Controles a pie
+Foot Controls
 
 [FET_CCR]
-Controles del vehículo
+Vehicle Controls
 
 [FEC_CMP]
-COMBO: Usa MIRAR A LA IZQUIERDA + MIRAR A LA DERECHA a la vez.
+COMBO: Uses LOOK LEFT + LOOK RIGHT together
 
 [FET_APP]
-CLIC EN BIR/INTRO - APLICAR NUEVO AJUSTE
+CLICK LMB / RETURN - APPLY NEW SETTING
 
 [FEH_MPB]
-CURSORES: MOVER ARRIBA/ABAJO~n~INTRO: ALTERNAR OPCIÓN
+CURSORS - MOVE UP/DOWN~n~RETURN - TOGGLE OPTION
 
 [FEA_MPM]
-MODO REPRODUCCIÓN
+PLAY MODE
 
 [FEA_PR1]
 RADIO
 
 [FEA_PR2]
-ALEATORIO
+RANDOM
 
 [FEA_PR3]
-SECUENCIAL
+SEQUENTIAL
 
 [FEA_AMS]
-AUTOESCANEAR MEDIOS
+AUTOMATIC MEDIA SCAN
 
 [FEA_SCN]
-ESCANEAR CANCIONES DEL USUARIO
+SCAN USER TRACKS
 
 [FEA_TID]
-~1~ CANCIONES EN LA BASE DE DATOS
+~1~ TRACKS IN DATABASE
 
 [FEA_TIT]
-Opciones canciones del usuario
+User Track Options
 
 [FEA_SMP]
-ESCANEANDO CANCIONES DEL USUARIO. POR FAVOR, ESPERA.~n~~n~Pulsa ESC para cancelar.
+SCANNING USER TRACKS - PLEASE WAIT~n~~n~Press ESC to cancel
 
 [FEC_TFL]
-Ctrl especial izquierda
+Special Ctrl Left
 
 [FEC_TFR]
-Ctrl especial derecha
+Special Ctrl Right
 
 [FEA_SUB]
-Para oír tu propia música durante el juego, crea un acceso directo a tus canciones en la carpeta de "User Tracks"
+To play your own music in-game, create Short-Cuts to your music tracks in the 'User Tracks' folder.
 
 [FEJ_TIT]
-Ajustes de mando
+Joypad Settings
 
 [FEJ_INY]
-INVERTIR EJE Y DEL STICK IZQ.
+INVERT LEFT STICK Y
 
 [FEJ_INX]
-INVERTIR EJE X DEL STICK IZQ.
+INVERT LEFT STICK X
 
 [FEJ_RNY]
-INVERTIR EJE Y DEL STICK DER.
+INVERT RIGHT STICK Y
 
 [FEJ_RNX]
-INVERTIR EJE X DEL STICK DER.
+INVERT RIGHT STICK X
 
 [FEJ_INA]
-INVERTIR EJE IZQUIERDO
+INVERT LEFT AXIS
 
 [FEJ_RNA]
-INVERTIR EJE DERECHO
+INVERT RIGHT AXIS
 
 [FEJ_SNP]
-CAMBIAR POSICIÓN DE CÁMARA
+SNAP CAMERA POSITION
 
 [FEA_SCS]
-CANCIONES DE USUARIO ESCANEADAS CON ÉXITO
+USER TRACKS SCANNED SUCCESSFULLY
 
 [FEA_SCF]
-ERROR AL ESCANEAR CANCIONES DEL USUARIO
+FAILED TO SCAN USER TRACKS
 
 [FEC_ER2]
-¡Error! Cambiar los controles en la pantalla de "A pie" ha hecho que una o más acciones de control queden desvinculadas en la pantalla de "En vehículo". Comprueba que todas las acciones de control están asignadas.~n~Pulsa ESC para continuar.
+Error! Changing controls on the 'On Foot' screen has caused one or more control actions to be unbound on the 'In Vehicle' screen. Please check all control actions are set~n~Press ESC to continue
 
 [FEC_ER3]
-¡Error! Cambiar los controles en la pantalla de "En vehículo" ha hecho que una o más acciones de control queden desvinculadas en la pantalla de "A pie". Comprueba que todas las acciones de control están asignadas.~n~Pulsa ESC para continuar.
+Error! Changing controls on the 'In Vehicle' screen has caused one or more control actions to be unbound on the 'On Foot' screen. Please check all control actions are set~n~Press ESC to continue
 
 [FEC_FIA]
-Disparo secundario
+Secondary Fire
 
 [FEC_PLU]
-Direcc. adelante/abajo
+Steer Forward/Down
 
 [FEC_PLD]
-Dirección atrás/arriba
+Steer Back/Up
 
 [FEC_TAR]
-Apuntar con arma
+Aim Weapon
 
 [FEC_BRA]
-Freno/Marcha atrás
+Brake/Reverse
 
 [FEC_VML]
-Mirar con el ratón
+Mouse Look
 
 [FEC_PDW]
-Andar
+Walk
 
 [FESZ_QQ]
-¿Seguro que quieres comenzar una nueva partida?
+Are you sure you want to start a new game?
 
 [FES_DAT]
-FECHA
-
-[FEL_CHE]
-Cambiar la configuración de idioma restablecerá la configuración por defecto a tus controles y tu configuración de control actual se perderá. ¿Seguro que deseas cambiar de idioma?
-
-[FED_FXV]
-MUY ALTO
-
-[FED_GLS]
-GUARDAR FOTOS DE GALERÍA
-
-[FED_RDP]
-¿Seguro que quieres restablecer la configuración por defecto?
-
-[FEC_RTS]
-Saltarte canción
-
-[FEC_AST]
-Ast.
-
-[NO_PAK]
-¡Error al guardar!~n~~n~La Mission Pack actual no está disponible. Comprueba que la Mission Pack actual está instalada correctamente.~n~~n~Pulsa INTRO para empezar una nueva partida estándar.
-
-[FEC_SLC]
-Partida guardada dañada
-
-[FEH_JMP]
-PULSA BIR / INTRO - ENTRAR EN EL MENÚ
-
-[FEH_BPO]
-PULSA BIR / INTRO - ATRÁS
-
-[FEH_SNC]
-PULSA BIR / INTRO - ESCANEAR CANCIONES DEL USUARIO
+DATE
 
 [DUMMY4]
 THIS LABEL NEEDS TO BE HERE !!!

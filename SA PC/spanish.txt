@@ -1,68 +1,68 @@
 ﻿[WRN2_2P]
-2 jugadores: pulsa el botón ~h~SELECT~w~ para alternar la atención entre un jugador individual o el otro.
+2 player - Press the ~h~SELECT button~w~ to toggle focus on an individual player.
 
 [PU_2PLN]
-Pulsa cualquier botón del mando analógico (DUALSHOCK#) o del mando analógico (DUALSHOCK#2) en el puerto de mando 2 para activar la partida de dos jugadores.
+Press any button on the DUALSHOCK# analog controller or DUALSHOCK#2 analog controller in controller port 2 to activate 2 player game.
 
 [PU_2PL]
-Pulsa cualquier botón del mando analógico (DUALSHOCK#) o del mando analógico (DUALSHOCK#2) en el puerto de mando 2 para activar la partida de dos jugadores.
+Press any button on the analog controller (DUALSHOCK#) or analog controller (DUALSHOCK#2) in controller port 2 to activate 2 player game.
 
 [CINCAM]
-Cámara cinematográfica (Usa ~k~~VEHICLE_TURRETLEFT~ para cambiar el tipo de cámara cinematográfica.
+Cinematic Camera (Use ~k~~VEHICLE_TURRETLEFT~ to change cinematic camera type.)
 
 [FEG_HOW]
-Para hacer una foto con una cámara, pulsa ~k~~PED_FIREWEAPON~.
+To take a photo with a camera press ~k~~PED_FIREWEAPON~.
 
 [FE_HLPN]
-Tecla ESC Volver al juego
+Esc key Back to game
 
 [PROP_3]
-Pulsa ~k~~PED_ANSWER_PHONE~ para comprar esta propiedad.
+Press ~k~~PED_ANSWER_PHONE~ to buy this property.
 
 [GA_7]
-Actívala con ~k~~PED_FIREWEAPON~. La bomba estallará cuando el motor arranque.
+Arm with ~k~~PED_FIREWEAPON~. Bomb will go off when engine is started.
 
 [GA_7B]
-Actívala con ~k~~PED_FIREWEAPON~. La bomba estallará cuando el motor arranque.
+Arm with ~k~~PED_FIREWEAPON~. Bomb will go off when engine is started.
 
 [PU_CF1]
-Pulsa ~k~~PED_ANSWER_PHONE~ para recoger esta arma. Sustituirá a cualquier arma que tengas del mismo tipo.
+Press ~k~~PED_ANSWER_PHONE~ to pick up this weapon. It will replace any weapon you have of the same type.
 
 [PU_CF3]
-Pulsa ~k~~PED_ANSWER_PHONE~ para sustituir el arma actual en esta ranura.
+Press ~k~~PED_ANSWER_PHONE~ to replace current weapon in this slot.
 
 [PU_CF4]
-Pulsa ~k~~PED_ANSWER_PHONE~ para sustituir el arma actual en esta ranura.
+Press ~k~~PED_ANSWER_PHONE~ to replace current weapon in this slot.
 
 [ANSWER]
-Pulsa ~k~~PED_ANSWER_PHONE~ para responder al teléfono móvil.
+Press ~k~~PED_ANSWER_PHONE~ to answer your cell phone.
 
 [ANSWER0]
-Es una llamada de Denise. Pulsa ~k~~PED_ANSWER_PHONE~ para responder al teléfono móvil.
+It's a call from Denise. Press ~k~~PED_ANSWER_PHONE~ to answer your cell phone.
 
 [ANSWER1]
-Es una llamada de Michelle. Pulsa ~k~~PED_ANSWER_PHONE~ para responder al teléfono móvil.
+It's a call from Michelle. Press ~k~~PED_ANSWER_PHONE~ to answer your cell phone.
 
 [ANSWER2]
-Es una llamada de Helena. Pulsa ~k~~PED_ANSWER_PHONE~ para responder al teléfono móvil.
+It's a call from Helena. Press ~k~~PED_ANSWER_PHONE~ to answer your cell phone.
 
 [ANSWER3]
-Es una llamada de Bárbara. Pulsa ~k~~PED_ANSWER_PHONE~ para responder al teléfono móvil.
+It's a call from Barbara. Press ~k~~PED_ANSWER_PHONE~ to answer your cell phone.
 
 [ANSWER4]
-Es una llamada de Katie. Pulsa ~k~~PED_ANSWER_PHONE~ para responder al teléfono móvil.
+It's a call from Katie. Press ~k~~PED_ANSWER_PHONE~ to answer your cell phone.
 
 [ANSWER5]
-Es una llamada de Millie. Pulsa ~k~~PED_ANSWER_PHONE~ para responder al teléfono móvil.
+It's a call from Millie. Press ~k~~PED_ANSWER_PHONE~ to answer your cell phone.
 
 [GA_8]
-Usa el detonador para activar la bomba.
+Use the detonator to activate the bomb.
 
 [GA_6]
-Aparca, activa la bomba pulsando ~k~~PED_FIREWEAPON~ ¡y a correr!
+Park it, prime it by pressing ~k~~PED_FIREWEAPON~ and LEG IT!
 
 [GA_6B]
-Aparca, activa la bomba pulsando ~k~~PED_FIREWEAPON~ ¡y a correr!
+Park it, prime it by pressing ~k~~PED_FIREWEAPON~ and LEG IT!
 
 [CRED000]
 ROCKSTAR NORTH
@@ -1864,6 +1864,12 @@ Chris Thomson
 [CRED993]
 Surian Christopher Soosay
 
+[CRED992]
+Nick Rees
+
+[CRED991]
+Alastair MacGregor
+
 [RATNG53]
 Playa-hater
 
@@ -2042,124 +2048,124 @@ King of San Andreas
 ~T~ No
 
 [FES_LOC]
-¡Error al cargar! La partida guardada no es compatible con esta versión de Grand Theft Auto: San Andreas.~n~~n~El juego se va a reiniciar.
+Load Failed! Save game is not compatible with this version of Grand Theft Auto: San Andreas.~n~~n~Now restarting game.
 
 [STAT337]
-Territorio bajo control
+Territory under control
 
 [CHEAT8]
-Truco desactivado
+Cheat deactivated
 
 [FEC_DUW]
-Zambullirse bajo el agua
+Dive underwater
 
 [FEC_SWF]
-Nadar hacia delante
+Swim forward
 
 [FEC_HCD]
-Descender (helicóptero)
+Descend (Helicopter)
 
 [FEC_HCA]
-Ascender (helicóptero)
+Ascend (Helicopter)
 
 [FEC_RL]
-Girar a la izquierda (volando)
+Rotate Left (flying)
 
 [FEC_RR]
-Girar a la derecha (volando)
+Rotate Right (flying)
 
 [FEC_HOV]
-Estático (Helicóptero) ~k~~VEHICLE_HORN~
+Hover (Helicopter) ~k~~VEHICLE_HORN~
 
 [FEC_ALW]
-Arma alternativa (avión)
+Alternate weapon (plane)
 
 [FEC_GER]
-Tren de aterr. (avión) ~k~~TOGGLE_SUBMISSIONS~
+Landing gear (plane) ~k~~TOGGLE_SUBMISSIONS~
 
 [FEC_THR]
-Aceleración (avión)
+Thrust (plane)
 
 [SADLSHI]
 Sadler
 
 [SHESPT0]
-~h~Salud~w~ mejorada. Puedes sufrir más daño antes de morir.
+~h~Health~w~ - Upgraded. You can take more damage before dying.
 
 [SHESPT1]
-~h~Salud~w~ mejorada. Has llegado al máximo.
+~h~Health~w~ - Upgraded. Maximum reached.
 
 [WRN1_2P]
-2 jugadores: distancia límite alcanzada, acércate al otro jugador.
+2 player - Distance limit reached, please move towards other player.
 
 [SWPI_R]
-~h~Habilidad con pistola~w~ mejorada. Sigue practicando y alcanzarás el nivel de asesino, que te permite empuñar dos pistolas a la vez.
+~h~Pistol Skill~w~ - Upgraded. Keep practicing and you'll reach Hitman level, allowing you to wield two Pistols simultaneously.
 
 [SWSP_T]
-~h~Habilidad con pistola con silenciador~w~ mejorada. Sigue practicando y alcanzarás el nivel de gánster.
+~h~Silenced Pistol Skill~w~ - Upgraded. Keep practicing and you'll reach Gangster level.
 
 [SWSP_R]
-~h~Habilidad con pistola con silenciador~w~ mejorada. Sigue practicando y alcanzarás el nivel de asesino.
+~h~Silenced Pistol Skill~w~ - Upgraded. Keep practicing and you'll reach Hitman level.
 
 [SWDE_R]
-~h~Habilidad con Desert Eagle~w~ mejorada. Sigue practicando y alcanzarás el nivel de asesino.
+~h~Desert Eagle Skill~w~ - Upgraded. Keep practicing and you'll reach Hitman level.
 
 [SWSG_R]
-~h~Habilidad con escopeta~w~ mejorada. Sigue practicando y alcanzarás el nivel de asesino.
+~h~Shotgun Skill~w~ - Upgraded. Keep practicing and you'll reach Hitman level.
 
 [SWSS_R]
-~h~Habilidad con escopeta recortada~w~ mejorada. Sigue practicando y alcanzarás el nivel de asesino, que te permite empuñar dos recortadas a la vez.
+~h~Sawn-Off Shotgun Skill~w~ - Upgraded. Keep practicing and you'll reach Hitman level, allowing you to wield two Sawn-off's simultaneously.
 
 [SWSZ_R]
-~h~Habilidad con escopeta de combate~w~ mejorada. Sigue practicando y alcanzarás el nivel de asesino.
+~h~Combat Shotgun Skill~w~ - Upgraded. Keep practicing and you'll reach Hitman level.
 
 [SWMU_R]
-~h~Habilidad con metralleta~w~ mejorada. Sigue practicando y alcanzarás el nivel de asesino, que te permite empuñar dos metralletas a la vez.
+~h~Machine Pistol Skill~w~ - Upgraded. Keep practicing and you'll reach Hitman level, allowing you to wield two Machine Pistols simultaneously.
 
 [SWM5_R]
-~h~Habilidad con subfusil~w~ mejorada. Sigue practicando y alcanzarás el nivel de asesino.
+~h~SMG Skill~w~ - Upgraded. Keep practicing and you'll reach Hitman level.
 
 [SWAK_R]
-~h~Habilidad con AK-47~w~ mejorada. Sigue practicando y alcanzarás el nivel de asesino.
+~h~AK-47 Skill~w~ - Upgraded. Keep practicing and you'll reach Hitman level.
 
 [SWM4_R]
-~h~Habilidad con M4~w~ mejorada. Sigue practicando y alcanzarás el nivel de asesino.
+~h~M4 Skill~w~ - Upgraded. Keep practicing and you'll reach Hitman level.
 
 [SWSR_T]
-~h~Habilidad con rifle~w~ mejorada. Sigue practicando y alcanzarás el nivel de gánster.
+~h~Rifle Skill~w~ - Upgraded. Keep practicing and you'll reach Gangster level.
 
 [SWSR_R]
-~h~Habilidad con rifle~w~ mejorada. Sigue practicando y alcanzarás el nivel de asesino.
+~h~Rifle Skill~w~ - Upgraded. Keep practicing and you'll reach Hitman level.
 
 [SHAMAL]
 Shamal
 
 [GA_1B]
-~r~¡No trabajo con juguetes!
+~r~I don't do toys!
 
 [LG_64]
-Objetivo del jugador
+Player target
 
 [LG_66]
-Cantera
+Quarry
 
 [LG_67]
-Cafetería
+Diner
 
 [STAT336]
-Fuerza de la banda
+Gang strength
 
 [FIRELA]
-Coche de bomberos
+Fire Truck
 
 [SUSFBG]
-Piso franco
+Safe House
 
 [8TRACK]
-Estadio "8-Track"
+8-Track Stadium
 
 [ABATOIR]
-Matadero Sindacco
+Sindacco Abattoir
 
 [AMMUN1]
 Ammu-Nation
@@ -2177,10 +2183,10 @@ Ammu-Nation
 Ammu-Nation
 
 [ATRIUME]
-Atrio
+Atrium
 
 [ATRIUMX]
-Atrio
+Attrium
 
 [BAR1]
 Club
@@ -2189,34 +2195,34 @@ Club
 Bar
 
 [BARBERS]
-Barbería
+Barber
 
 [BARBER2]
-Barbería
+Barber
 
 [BARBER3]
-Barbería
+Barber
 
 [BDUPS]
-Apartamento de B Dup
+B Dup's apartment
 
 [BDUPS1]
-Palacio del crack de B Dup
+B Dup's Crack Palace
 
 [BIKESCH]
-Escuela de motos
+Bike School
 
 [BROTHEL]
-Casa de putas
+Whore House
 
 [BROTHL2]
-Prostíbulo
+Brothel
 
 [BURHOUS]
-Casa del coronel Fuhrberger
+Colonel Fuhrberger's
 
 [CARLS]
-Casa de los Johnson
+The Johnson House
 
 [CARMOD1]
 TransFender
@@ -2228,13 +2234,13 @@ Loco Low Co.
 Wheel Arch Angels
 
 [CARTER]
-Palacio del crack de Smoke
+Smoke's Crack Palace
 
 [CARTERX]
-Palacio del crack de Smoke
+Smoke's Crack Palace
 
 [CASINO2]
-Planta del casino
+Casino Floor
 
 [CLOTHGP]
 Zip
@@ -2252,25 +2258,25 @@ Victim
 Didier Sachs
 
 [DESHOUS]
-Torre de control abandonada
+Abandoned AC tower
 
 [CHANGER]
-Ropero
+Wardrobe
 
 [DAMIN]
-Sala del generador
+Generator Hall
 
 [DINER1]
-Cafetería
+Diner
 
 [DINER2]
-Cafetería
+Diner
 
 [DIRBIKE]
-Estadio de pista de barro
+Dirt Stadium
 
 [DRIVES]
-Autoescuela
+Driving School
 
 [FDCHICK]
 Cluckin' Bell
@@ -2288,235 +2294,235 @@ Rusty Brown's
 World of Coq
 
 [GANG]
-Casa de la banda Vagos
+Vagos Gang House
 
 [GENOTB]
 Inside Track Betting
 
 [GENWRHS]
-Almacén
+Warehouse
 
 [GYM1]
-Gimnasio Ganton
+Ganton Gym
 
 [GYM2]
-Artes marciales Cobra
+Cobra Marital Arts
 
 [GYM3]
-Gimnasio Bajo el Cinto
+Below the Belt Gym
 
 [JUMP1]
-Tejado del Calígula
+Caligula's Roof
 
 [JUMP2]
-Tejado del Calígula
+Caligula's Roof
 
 [KICKSTA]
-Estadio de trial
+Trials Stadium
 
 [LACRAK]
-Garito de crack
+Crack Den
 
 [LACS1]
 Sub Urban
 
 [LAHS1A]
-Casa
+House
 
 [LAHS1B]
-Casa
+House
 
 [LAHS2A]
-Casa
+House
 
 [LAHS2B]
-Casa
+House
 
 [LAHSB1]
-Casa
+House
 
 [LAHSB2]
-Casa
+House
 
 [LAHSB3]
-Casa
+House
 
 [LAHSB4]
-Casa
+House
 
 [LAHSS6]
-Casa
+House
 
 [LASTRIP]
-Club de striptease
+Strip Club
 
 [MADDOGS]
-Mansión de Madd Dogg
+Madd Dogg's Crib
 
 [MAFCAS]
-Casino Calígula
+Caligula's Casino
 
 [MAFCAS2]
-Suites del ático
+Penthouse Suites
 
 [MDDOGS]
-Mansión de Madd Dogg
+Madd Dogg's Crib
 
 [MOTEL1]
-Motel Jefferson
+Jefferson Motel
 
 [OGLOCS]
-Casa de OG Loc
+OG Loc's
 
 [PAPER]
-Oficina de urbanismo
+Planning Department
 
 [PDOMES]
-Pleasure Domes
+The Pleasure Domes
 
 [PDOMES2]
-Pleasure Domes
+The Pleasure Domes
 
 [POLICE1]
-Central de policía de LS
+LSPD HQ
 
 [POLICE2]
-Central de policía de SF
+SFPD HQ
 
 [POLICE3]
-Central de policía de LV
+LVPD HQ
 
 [POLICE4]
-Central de policía de LV
+LVPD HQ
 
 [RCPLAY]
-Tienda de RC de Cero
+Zero's RC Shop
 
 [REST2]
-Valle secreto
+Secret Valley
 
 [RYDERS]
-Casa de Ryder
+Ryder's Place
 
 [SEXSHOP]
 Sex Shop
 
 [SFHSB1]
-Casa
+House
 
 [SFHSB2]
-Casa
+House
 
 [SFHSB3]
-Casa
+House
 
 [SFHSM1]
-Casa
+House
 
 [SFHSM2]
-Casa
+House
 
 [SFHSS1]
-Casa
+House
 
 [SFHSS2]
-Casa
+House
 
 [STRIP2]
-Club de striptease
+Strip Club
 
 [SVCUNT]
-Piso franco
+Safe House
 
 [SVGNMT1]
-Habitación de motel
+Motel room
 
 [SVGNMT2]
-Habitación de motel
+Motel room
 
 [SVHOT1]
-Suite del hotel
+Hotel Suite
 
 [SVLABIG]
-Piso franco
+Safe House
 
 [SVLAMD]
-Piso franco
+Safe House
 
 [SVLASM]
-Piso franco
+Safe House
 
 [SVSFBIG]
-Piso franco
+Safe House
 
 [SVSFBG]
-Piso franco
+Safe House
 
 [SVSFMD]
-Piso franco
+Safe House
 
 [SVSFSM]
-Piso franco
+Safe House
 
 [SVVGHO1]
-Suite del hotel
+Hotel Suite
 
 [SVVGHO2]
-Suite del hotel
+Hotel Suite
 
 [SVVGMD]
-Piso franco
+Safe House
 
 [SWEETS]
-Casa de Sweet
+Sweet's House
 
 [TATTO2]
-Salón de tatuaje
+Tattoo Parlor
 
 [TATTO3]
-Salón de tatuaje
+Tattoo Parlor
 
 [TATTOO]
-Salón de tatuaje
+Tattoo Parlor
 
 [TATTOO3]
-Salón de tatuaje
+Tattoo Parlor
 
 [TRICAS]
 The Four Dragons
 
 [TSDINER]
-Parada de camioneros
+Truck Stop
 
 [UFOBAR]
 Lil' Probe Inn
 
 [VGHSB1]
-Casa
+House
 
 [VGHSB3]
-Casa
+House
 
 [VGHSM2]
-Casa
+House
 
 [VGHSM3]
-Casa
+House
 
 [VGHSS1]
-Casa
+House
 
 [VGSHM2]
-Casa
+House
 
 [VGSHM3]
-Casa
+House
 
 [VGSHS2]
-Casa
+House
 
 [WUZIBET]
-Apartamento de Wu Zi Mu
+Wu Zi Mu's
 
 [X7_11B]
 24-7
@@ -2555,10 +2561,10 @@ Apartamento de Wu Zi Mu
 24-7
 
 [LG_63]
-Misterio
+Mystery
 
 [STAT229]
-Habilidad con motos
+Bike skill
 
 [LG_58]
 Varrios Los Aztecas
@@ -2567,10 +2573,10 @@ Varrios Los Aztecas
 Ballas
 
 [LG_60]
-Vagos de Los Santos
+Los Santos Vagos
 
 [LG_61]
-Rifas de San Fierro
+San Fierro Rifa
 
 [LG_62]
 Families
@@ -2579,517 +2585,517 @@ Families
 Rustler
 
 [GA_XX]
-Nuevo motor y capa de pintura: 100 $
+New engine and paint job: $100
 
 [STAT213]
-Vehículos exportados
+Number of vehicles exported
 
 [STAT214]
-Vehículos importados
+Number of vehicles imported
 
 [SBOMUS6]
-~h~Musculatura~w~ mejorada. Ya puedes aprender nuevas maniobras de combate en el gimnasio.
+~h~Body Muscle~w~ - Upgraded. You can now learn new fight moves at the gym.
 
 [WRN_2P]
-Un poco más y finalizará la partida de dos jugadores
+Any further and the 2 player game will end
 
 [FED_BL5]
-Bandas
+Gang Area
 
 [HYDRA]
 Hydra
 
 [FEA_ART]
-SINTONIZACIÓN AUTOMÁTICA
+RADIO AUTO-TUNE
 
 [FEA_BAS]
-Ecualizador (radio)
+Radio EQ
 
 [STAT029]
-Distancia recorrida en bici de ejercicio
+Distance travelled on exercise bike
 
 [STAT045]
-Mayor tiempo en bici de ejercicio
+Longest exercise bike time
 
 [LG_57]
-Confiscación de coche
+Car impound
 
 [LG_52]
-Carrera de torneo
+Race Tournament
 
 [FEG_PSU]
-Espacio de foto en uso:
+Photo space in use:
 
 [STAT048]
-Mejor tiempo en "8-Track"
+Best time in 8-Track
 
 [STAT172]
-Mejor posición en "8-Track"
+Best position in 8-Track
 
 [STAT212]
-Mejor vuelta en "8-Track"
+Best lap time in 8-Track
 
 [STAT219]
-Mejor vuelta en Pista de barro
+Best lap time in dirt track
 
 [STAT220]
-Mejor tiempo en Pista de barro
+Best time in dirt track
 
 [STAT221]
-Misión más difícil
+Best position in dirt track
 
 [STAT258]
-Mejor posición en "Lowrider Race"
+Best position in Lowrider Race
 
 [STAT259]
-Mejor tiempo en "Lowrider Race"
+Best time in Lowrider Race
 
 [STAT260]
-Mejor posición en "Little Loop"
+Best position in Little Loop
 
 [STAT261]
-Mejor tiempo en "Little Loop"
+Best time in Little Loop
 
 [STAT262]
-Mejor posición en "Backroad Wanderer"
+Best position in Backroad Wanderer
 
 [STAT263]
-Mejor tiempo en "Backroad Wanderer"
+Best time in Backroad Wanderer
 
 [STAT264]
-Mejor posición en "City Circuit"
+Best position in City Circuit
 
 [STAT265]
-Mejor tiempo en "City Circuit"
+Best time in City Circuit
 
 [STAT266]
-Mejor posición en "Vinewood"
+Best position in Vinewood
 
 [STAT267]
-Mejor tiempo en "Vinewood"
+Best time in Vinewood
 
 [STAT268]
-Mejor posición en "Freeway"
+Best position in Freeway
 
 [STAT269]
-Mejor tiempo en "Freeway"
+Best time in Freeway
 
 [STAT270]
-Mejor posición en "Into the Country"
+Best position in Into the Country
 
 [STAT271]
-Mejor tiempo en "Into the Country"
+Best time in Into the Country
 
 [STAT272]
-Mejor posición en "Badlands A"
+Best position in Badlands A
 
 [STAT273]
-Mejor tiempo en "Badlands A"
+Best time in Badlands A
 
 [STAT274]
-Mejor posición en "Badlands B"
+Best position in Badlands B
 
 [STAT275]
-Mejor tiempo en "Badlands B"
+Best time in Badlands B
 
 [STAT276]
-Mejor posición en "Dirtbike Danger"
+Best position in Dirtbike Danger
 
 [STAT277]
-Mejor tiempo en "Dirtbike Danger"
+Best time in Dirtbike Danger
 
 [STAT278]
-Mejor posición en "Bandito County"
+Best position in Bandito County
 
 [STAT279]
-Mejor tiempo en "Bandito County"
+Best time in Bandito County
 
 [STAT280]
-Mejor posición en "go-go-Kart"
+Best position in Go-Go-Kart
 
 [STAT281]
-Mejor tiempo en "go-go-Kart"
+Best time in Go-Go-Kart
 
 [STAT282]
-Mejor posición en "San Fierro Fastlane"
+Best position in San Fierro Fastlane
 
 [STAT283]
-Mejor tiempo en "San Fierro Fastlane"
+Best time in San Fierro Fastlane
 
 [STAT284]
-Mejor posición en "San Fierro Hills"
+Best position in San Fierro Hills
 
 [STAT285]
-Mejor tiempo en "San Fierro Hills"
+Best time in San Fierro Hills
 
 [STAT286]
-Mejor posición en "Country Endurance"
+Best position in Country Endurance
 
 [STAT287]
-Mejor tiempo en "Country Endurance"
+Best time in Country Endurance
 
 [STAT288]
-Mejor posición en "SF to LV"
+Best position in SF to LV
 
 [STAT289]
-Mejor tiempo en "SF to LV"
+Best time in SF to LV
 
 [STAT290]
-Mejor posición en "Dam Rider"
+Best position in Dam Rider
 
 [STAT291]
-Mejor tiempo en "Dam Rider"
+Best time in Dam Rider
 
 [STAT292]
-Mejor posición en "Desert Tricks"
+Best position in Desert Tricks
 
 [STAT293]
-Mejor tiempo en "Desert Tricks"
+Best time in Desert Tricks
 
 [STAT294]
-Mejor posición en "LV Ringroad"
+Best position in LV Ringroad
 
 [STAT295]
-Mejor tiempo en "LV Ringroad"
+Best time in LV Ringroad
 
 [STAT296]
-Mejor tiempo en "World War Aces"
+Best time in World War Aces
 
 [STAT297]
-Mejor tiempo en "Barnstorming"
+Best time in Barnstorming
 
 [STAT298]
-Mejor tiempo en "Military Service"
+Best time in Military Service
 
 [STAT299]
-Mejor tiempo en "Chopper Checkpoint"
+Best time in Chopper Checkpoint
 
 [STAT300]
-Mejor tiempo en "Whirly Bird Waypoint"
+Best time in Whirly Bird Waypoint
 
 [STAT301]
-Mejor tiempo en "Heli Hell"
+Best time in Heli Hell
 
 [DRIVES2]
-Autoescuela
+Driving School
 
 [TAG_ONE]
-Graffitis pintados~n~~1~ de ~1~
+Tags sprayed~n~~1~ out of ~1~
 
 [TAG_ALL]
-¡Todos los graffitis pintados!
+All tags sprayed!
 
 [STAT129]
-Ruedas reventadas por disparos
+Tires popped with gunfire
 
 [STAT033]
-Gasto en prostitutas
+Prostitute budget
 
 [STAT008]
-Distancia recorrida en helicóptero
+Distance travelled by helicopter
 
 [STAT224]
-Respeto por misión
+Respect Mission
 
 [STAT228]
-Total de respeto por misiones
+Respect Mission Total
 
 [STAT161]
-Misiones de camión superadas
+Number of Truck missions passed
 
 [STAT162]
-Dinero ganado con camión
+Money made in Truck
 
 [FE_HLPL]
-Volver al juego
+~t~ Back to game
 
 [STAT334]
-Dinero perdido apostando
+Money lost gambling
 
 [KILLPA]
-¡DEVASTACIÓN SUPERADA!
+KILL FRENZY PASSED!
 
 [WESTP]
 Queens
 
 [FE_HLPB]
-~k~~PED_CYCLE_WEAPON_LEFT~ ~k~~PED_CYCLE_WEAPON_RIGHT~ Acerca/Aleja
+~M~~V~ Zoom in/out
 
 [FE_HLPC]
-~k~~PED_FIREWEAPON~ marca sí/no
+~o~ Target on/off
 
 [FE_HLPP]
-~k~~PED_CENTER_CAMERA_BEHIND_PLAYER~ Anterior
+~K~ Skip back
 
 [FE_HLPQ]
-~k~~PED_LOCK_TARGET~ Siguiente
+~J~ Skip forward
 
 [FE_HLPD]
-~k~~CONVERSATION_NO~~k~~CONVERSATION_YES~ Ajustar
+~<~~>~ Adjust
 
 [FE_HLPF]
-~k~~CONVERSATION_NO~~k~~CONVERSATION_YES~ Dezplazar
+~<~~>~ Scroll
 
 [FE_HLPO]
-~k~~GROUP_CONTROL_FWD~~k~~GROUP_CONTROL_BWD~~k~~CONVERSATION_NO~~k~~CONVERSATION_YES~ Dezplazar
+~u~~d~~<~~>~ Scroll
 
 [FE_HLPG]
-~k~~GROUP_CONTROL_FWD~~k~~GROUP_CONTROL_BWD~~k~~CONVERSATION_NO~~k~~CONVERSATION_YES~ Mover
+~u~~d~~<~~>~ Move
 
 [FE_HLPI]
-~k~~GROUP_CONTROL_FWD~~k~~GROUP_CONTROL_BWD~ Mover
+~u~~d~ Move
 
 [FE_HLPR]
-~k~~GROUP_CONTROL_FWD~~k~~GROUP_CONTROL_BWD~~k~~CONVERSATION_NO~~k~~CONVERSATION_YES~ Ajustar
+~u~~d~~<~~>~ Adjust
 
 [FE_HLPS]
-~k~~PED_FIREWEAPON~ COPIAR FOTO
+~o~ COPY PHOTO
 
 [FEC_RSC]
-Emisora siguiente
+Next radio station
 
 [FEC_RSP]
-Emisora anterior
+Previous radio station
 
 [FEC_TSK]
-Saltarse el viaje
+Trip Skip
 
 [FEC_ANP]
-Responder al teléfono
+Answer phone
 
 [FEC_REV]
-Marcha atrás
+Reverse
 
 [FEC_TUC]
-Control de torreta
+Turret control
 
 [FEC_MCA]
-Cámara manual
+Manual camera
 
 [FEC_MSC]
-Mover mira
+Move scope
 
 [FEC_LOF]
-Mirar adelante
+Look forward
 
 [FEC_VST]
-Ver estadísticas
+View Stats
 
 [FEC_FWT]
-Disparar mientras se apunta
+Fire when targeting
 
 [FEC_GAM]
-Modo activo de banda
+Gang active mode
 
 [FEC_GPM]
-Modo pasivo de banda
+Gang passive mode
 
 [FEC_TKP]
-Charla positiva
+Positive talk
 
 [FEC_TKN]
-Charla negativa
+Negative talk
 
 [FEC_JUM]
-Saltar
+Jump
 
 [FEC_CLB]
-Trepar
+Climb
 
 [FEC_ENV]
-Entrar en vehículo
+Enter vehicle
 
 [FEC_PKU]
-Recoger objeto
+Pickup item
 
 [FEC_USE]
-Usar objeto
+Use item
 
 [FEC_ATT]
-Ataque
+Attack
 
 [FEC_FWE]
-Disparar arma
+Fire weapon
 
 [FEC_RUN]
-Esprintar
+Sprint
 
 [FEC_RN2]
-Varias puls.: esprintar más
+Tap - Sprint faster
 
 [FEC_CWL]
-Cambiar de arma hacia izquierda
+Cycle weapon left
 
 [FEC_ZSI]
-Acercar zoom de la mira
+Zoom scope in
 
 [FEC_CWR]
-Cambiar de arma hacia derecha
+Cycle weapon right
 
 [FEC_ZSO]
-Alejar zoom de la mira
+Zoom scope out
 
 [FEC_CR3]
-Agazaparse ~k~~PED_LOOKBEHIND~
+Crouch ~A~
 
 [FEC_DK3]
-Agacharse ~k~~PED_LOOKBEHIND~
+Duck ~A~
 
 [FEC_STR]
-Desplazam. lateral en 1a. pers.
+1st person strafe
 
 [PROP_4]
-Todavía no puedes comprar esta propiedad.
+You cannot buy this property yet.
 
 [FES_SGL]
-¿Deseas guardar esta fotografía?
+Do you wish to save this photograph?
 
 [FES_PM1]
-¿Seguro que deseas copiar esta fotografía?
+Are you sure you wish to copy this photograph?
 
 [WRCNT2]
-El mando conectado al puerto de mando 2 no es compatible. Grand Theft Auto: San Andreas requiere un mando analógico (DUALSHOCK#) o un mando analógico (DUALSHOCK#2).
+The controller connected to controller port 2 is an unsupported controller. Grand Theft Auto: San Andreas requires an analog controller (DUALSHOCK#) or analog controller (DUALSHOCK#2).
 
 [WRCNT2E]
-El mando conectado al puerto de mando 2 no es compatible. Grand Theft Auto: San Andreas requiere un mando analógico (DUALSHOCK#) o un mando analógico (DUALSHOCK#2).
+The controller connected to controller port 2 is an unsupported controller. Grand Theft Auto: San Andreas requires an analog controller (DUALSHOCK#) or analog controller (DUALSHOCK#2).
 
 [FEM_PWT]
-Espera...
+Please wait...
 
 [FE_HLPM]
-Borrar
+~x~ Delete
 
 [LG_45]
-Cita en la disco
+Disco Date
 
 [LG_46]
-Cita de ir a beber
+Drinking Date
 
 [LG_47]
-Cita de ir a comer
+Restaurant
 
 [LG_48]
-Camionero
+Trucking
 
 [LG_49]
-Destino
+Destination
 
 [LG_50]
-Objeto
+Object
 
 [LG_54]
-Amigo
+Friend
 
 [LG_55]
-Amenaza
+Threat
 
 [LG_56]
-Interés del jugador
+Player interest
 
 [LG_51]
-Lugar a robar
+Robbery
 
 [STAT326]
-Emisora de radio favorita
+Most Favorite Radio Station
 
 [STAT327]
-Emisora de radio menos usada
+Least Favorite Radio Station
 
 [STAT328]
-Habilidad actual con arma
+Current weapon skill
 
 [STAT329]
-Niveles de habilidad con arma
+Weapon skill levels
 
 [STAT330]
-Ranking de piloto
+Pilot ranking
 
 [STAT331]
-Banda más fuerte
+Strongest Gang
 
 [STAT332]
-2a banda más fuerte
+2nd strongest gang
 
 [STAT333]
-3a banda más fuerte
+3rd strongest gang
 
 [STAT246]
-Mejor tiempo de devastación (2 jugs.)
+2 Player Rampage best time
 
 [STAT247]
-Mejor tiempo de devastación en coche (2 jugs.)
+2 Player Car Rampage best time
 
 [STAT248]
-Mejor tiempo de devastación a pie (2 jugs.)
+2 Player On Foot Rampage best time
 
 [STAT249]
-Mejor tiempo de devastación en helicóptero (2 jugs.)
+2 Player Chopper Rampage best time
 
 [STAT250]
-Mejor tiempo de devastación en moto (2 jugs.)
+2 Player Bike Rampage best time
 
 [STAT251]
-Mejor tiempo al "Que no toque"
+'Keepie Uppy' best time
 
 [NOTEAT]
-Empiezas a tener hambre y a perder energía. Tienes que encontrar algo de comer.
+You are starting to feel hungry and are starting to lose energy. You need to find something to eat.
 
 [LG_53]
-Gimnasio
+Gym
 
 [STAT154]
-Paquetes entregados
+Packages Delivered
 
 [STAT190]
-Prostitutas visitadas
+Number of prostitutes visited
 
 [STAT322]
-Graffitis pintados
+Tags sprayed
 
 [INSMCP]
-¡Error al cargar!~n~~n~El Mission Pack actual no está disponible. Asegúrase que el Mission pack esté instalado o inicia una nueva partida.
+Load failed!~n~~n~The current Mission Pack is not available. Please recheck that the current Mission Pack is installed correctly or start a new game.
 
 [STAT252]
-Progreso con Denise
+Progress with Denise
 
 [STAT253]
-Progreso con Michelle
+Progress with Michelle
 
 [STAT254]
-Progreso con Helena
+Progress with Helena
 
 [STAT255]
-Progreso con Bárbara
+Progress with Barbara
 
 [STAT256]
-Progreso con Katie
+Progress with Katie
 
 [STAT257]
-Progreso con Millie
+Progress with Millie
 
 [FE_HLPT]
-Menú de iconos
+~J~ Blip Menu
 
 [FES_NIM]
-¡Error al guardar! El Mission Pack actual no está disponible. Asegúrase que el Mission pack esté instalado o inicia una nueva partida.
+Save failed! The current Mission Pack is not available. Please recheck that the current Mission Pack is installed correctly.
 
 [FESZ_MR]
-¿Seguro que quieres comenzar una nueva partida estándar? Todo el progreso actual en este Mission Pack se perderá. ¿Continuar?
+Are you sure you want to start a new standard game? All current game progress in this Mission Pack will be lost. Proceed?
 
 [FEN_NGX]
-San Andreas (partida estándar)
+San Andreas (standard game)
 
 [FEC_ONF]
-A PIE
+ON FOOT
 
 [FEC_INC]
-EN VEHÍCULO
+IN VEHICLE
 
 [STAT185]
-Citas desastrosas
+Number of disastrous dates
 
 [STAT188]
-Citas con éxito
+Number of successful dates
 
 [LG_14]
 Crash
@@ -3110,100 +3116,100 @@ Emmet
 OG Loc
 
 [STAT049]
-Mejor tiempo en BMX
+BMX best time
 
 [STAT036]
-Dinero ganado como chulo
+Money made from pimping
 
 [STAT170]
-Número de veces ahogado
+Times drowned
 
 [STAT171]
-Chicas chuleadas
+Number of girls pimped
 
 [STAT210]
-Nivel de chulo
+Pimping level
 
 [STAT211]
-Mejor puntuación de trial
+Kickstart best score
 
 [FE_HLPU]
-~k~~PED_SPRINT~ Sobrescribir foto
+~x~ Overwrite Photo
 
 [FE_HLPV]
-~k~~VEHICLE_ENTER_EXIT~ Cancelar guardar
+~t~ Cancel Save
 
 [GAL_SES]
-Espacio de galería vacío.~n~~n~Puedes guardar tu foto aquí sin perder ninguna de tus fotos actuales.
+Empty Gallery Space~n~~n~You can save your photo here without losing any of your current photos
 
 [FEG_DL2]
-¿Seguro que quieres eliminar esta fotografía?
+Are you sure you wish to delete this photograph?
 
 [FEG_DL3]
-¿Deseas eliminar solo esta foto, o todas las fotos de tu galería?
+Do you wish to delete just this one photo or all photos from your Gallery?
 
 [FEG_DL4]
-Una foto
+One photo
 
 [FEG_DL5]
-Todas las fotos
+All photos
 
 [FEG_OVR]
-¿Estás seguro de que deseas sobrescribir esta foto?
+Are you sure you wish to overwrite this photo?
 
 [CDERROR]
-Error al leer el ~n~disco de Grand Theft Auto: San Andreas.
+Error reading the~n~Grand Theft Auto: San Andreas disc
 
 [FEH_CON]
-Controles
+Controller
 
 [FEC_EXV]
-Salir del vehículo
+Exit vehicle
 
 [FEC_NA]
-N/D
+N/A
 
 [GAL_EGS]
-Espacio de galería vacío.~n~~n~No hay foto que mostrar.
+Empty Gallery Space~n~~n~No photo to display
 
 [FE_HLPW]
-~k~~PED_SPRINT~ Guardar foto
+~x~ Save Photo
 
 [GA_13]
-Una entrega propia de un profesional.~n~Completa la lista y habrá una bonificación para ti.
+Delivered like a pro~n~Complete the list and there'll be a bonus for you
 
 [GA_14]
-Todos los coches. ¡BIEN!~n~Aquí tienes una pequeña recompensa.
+All the cars. NICE!~n~Here's a little something
 
 [GA_15]
-Espero que te guste el nuevo color.
+Hope you like the new color
 
 [GA_16]
-La mano de pintura va incluida.
+Respray is complementary
 
 [GA_19]
-~r~¡No nos interesa ese modelo!
+~r~We're not interested in that model
 
 [GA_20]
-~r~Tenemos más de ésos de los que podemos vender.~n~Lo siento, tío, no hay trato.
+~r~We got more of these than we can shift~n~Sorry man, no deal
 
 [PU_MONY]
-No tienes suficiente pasta.
+You don't have enough cash
 
 [GA_3]
-Se acabaron los regalitos.~n~¡100 $ por repintar!
+No more freebies~n~$100 to respray!
 
 [GA_1A]
-~r~Vuelve cuando no estés tan ocupado...
+~r~Come back when you're not so busy...
 
 [GA_2]
-Nuevo motor y capa de pintura: 100 $~n~¡Los polis no te reconocerán!
+New engine and paint job: $100~n~Cops won't recognize you!
 
 [GA_21]
-~w~No puedes guardar más vehiculos en este garaje.
+~w~You cannot store any more vehicles in this garage!!
 
 [GA_5]
-~r~¡Tu coche ya va equipado con una bomba!
+~r~Your car is already fitted with a bomb!
 
 [LANDSTK]
 Landstalker
@@ -3230,7 +3236,7 @@ Infernus
 Dumper
 
 [FIRETRK]
-Coche de bomberos
+Fire Truck
 
 [TRASHM]
 Trashmaster
@@ -3254,7 +3260,7 @@ Mule
 Cheetah
 
 [AMBULAN]
-Ambulancia
+Ambulance
 
 [LEVIATH]
 Leviathan
@@ -3284,7 +3290,7 @@ Mr. Whoopee
 BF Injection
 
 [POLICAR]
-Coche de policía
+Police
 
 [ENFORCR]
 Enforcer
@@ -3383,7 +3389,7 @@ Caddy
 Solair
 
 [TOPFUN]
-Furgoneta de RC de Berkley
+Berkley's RC Van
 
 [SKIMMER]
 Skimmer
@@ -3410,7 +3416,7 @@ Glendale
 Oceanic
 
 [SANCHEZ]
-Sánchez
+Sanchez
 
 [SPARROW]
 Sparrow
@@ -3536,7 +3542,7 @@ Elegant
 Journey
 
 [BIKE]
-Bici
+Bike
 
 [MTBIKE]
 Mountain Bike
@@ -3803,7 +3809,7 @@ Turismo
 Picador
 
 [SWATVAN]
-Tanqueta S.W.A.T
+S.W.A.T.
 
 [ALPHA]
 Alpha
@@ -3869,7 +3875,7 @@ East Beach
 East Los Santos
 
 [PLS]
-Playa de Seville
+Playa del Seville
 
 [ELCO]
 El Corona
@@ -3881,10 +3887,10 @@ Idlewood
 Mulholland
 
 [LMEX]
-Little México
+Little Mexico
 
 [CONF]
-Conference Centre
+Conference Center
 
 [PER1]
 Pershing Square
@@ -3911,7 +3917,7 @@ Verdant Bluffs
 Verona Beach
 
 [SMB]
-Santa María Beach
+Santa Maria Beach
 
 [ROD]
 Rodeo
@@ -3935,7 +3941,7 @@ Ganton
 Downtown Los Santos
 
 [INT45]
-Cruce de Mulholland
+Mulholland Intersection
 
 [BFC]
 Blackfield Chapel
@@ -3944,7 +3950,7 @@ Blackfield Chapel
 Randolph Industrial Estate
 
 [LDM]
-Motel Last Dime
+Last Dime Motel
 
 [RSW]
 Rockshore West
@@ -3962,10 +3968,10 @@ Sobell Rail Yards
 Julius Thruway South
 
 [LVA]
-Depósito de carga, aeropuerto de LV
+LVA Freight Depot
 
 [VAIR]
-Aeropuerto de Las Venturas
+Las Venturas Airport
 
 [GGC]
 Greenglass College
@@ -3977,7 +3983,7 @@ Blackfield
 Whitewood Estates
 
 [PINT]
-Cruce de Pilson
+Pilson Intersection
 
 [YBELL]
 Yellow Bell Golf Course
@@ -4004,7 +4010,7 @@ Spinybed
 Linden Station
 
 [BINT]
-Cruce de Blackfield
+Blackfield Intersection
 
 [PRP]
 Prickle Pine
@@ -4031,10 +4037,10 @@ The Clown's Pocket
 The Emerald Isle
 
 [STAR]
-Casino Starfish
+Starfish Casino
 
 [ROY]
-Casino Royale
+Royal Casino
 
 [CAM]
 The Camel's Toe
@@ -4043,16 +4049,16 @@ The Camel's Toe
 Come-A-Lot
 
 [PIRA]
-The Pirates in Men's Pants
+Pirates in Men's Pants
 
 [VISA]
 The Visage
 
 [CALI]
-Casino Calígula
+Caligula's Palace
 
 [DRAG]
-Casino The Four Dragons
+The Four Dragons Casino
 
 [PINK]
 The Pink Swan
@@ -4115,7 +4121,7 @@ City Hall
 King's
 
 [GARC]
-García
+Garcia
 
 [HASH]
 Hashbury
@@ -4145,25 +4151,25 @@ Easter Basin
 Esplanade East
 
 [KINC]
-Puente Kincaid
+Kincaid Bridge
 
 [KINC1]
-Puente Kincaid
+Kincaid Bridge
 
 [KINC2]
-Puente Kincaid
+Kincaid Bridge
 
 [GARV]
-Puente Garver
+Garver Bridge
 
 [GARV1]
-Puente Garver
+Garver Bridge
 
 [GARV2]
-Puente Garver
+Garver Bridge
 
 [ELQUE]
-El Quebrado
+El Quebrados
 
 [ALDEA]
 Aldea Malvada
@@ -4187,7 +4193,7 @@ Green Palms
 Octane Springs
 
 [QUARY]
-Cantera Hunter
+Hunter Quarry
 
 [BLUEB]
 Blueberry
@@ -4274,25 +4280,25 @@ Arco del Oeste
 El Castillo del Diablo
 
 [FLINTI]
-Cruce de Flint
+Flint Intersection
 
 [MONINT]
-Cruce de Montgomery
+Montgomery Intersection
 
 [ROBINT]
-Cruce de Robada
+Robada Intersection
 
 [BYTUN]
-Túnel de Bayside
+Bayside Tunnel
 
 [ETUNN]
-Túnel de Easter
+Easter Tunnel
 
 [MULINT]
-Cruce de Mulholland
+Mulholland Intersection
 
 [REST]
-Área restringida
+Restricted Area
 
 [PROBE]
 Lil' Probe Inn
@@ -4307,13 +4313,13 @@ Valle Ocultado
 The Mako Span
 
 [FALLO]
-Puente Fallow
+Fallow Bridge
 
 [MART]
-Puente Martin
+Martin Bridge
 
 [FRED]
-Puente Frederick
+Frederick Bridge
 
 [FLINW]
 Flint Water
@@ -4337,7 +4343,7 @@ San Andreas Sound
 Los Santos Inlet
 
 [OPEN]
-"MAR ABIERTO"
+'OPEN OCEAN'
 
 [UNITY]
 Unity Station
@@ -4364,7 +4370,7 @@ De Koch
 De Koch
 
 [CDS]
-Tienda de discos
+CD Shop
 
 [SEX2]
 Sex Shop
@@ -4373,10 +4379,10 @@ Sex Shop
 Schnidt & Priss
 
 [ELEC1]
-Electricidad Arcox
+Arcox Electrical
 
 [ELEC2]
-Electricidad cutre
+Cheap Electrical
 
 [FURNCHP]
 Cheap Furn
@@ -4406,31 +4412,31 @@ Hospital 3
 Motel
 
 [CHECK]
-Inscribirse
+Check In
 
 [PLANDEP]
-Dept. de urbanismo de la ciudad
+City Planning Dept.
 
 [ST_PR01]
-Chico volador
+Flyboy
 
 [ST_PR02]
-Oficial vuelo
+Aircraftman
 
 [ST_PR03]
-Oficial piloto
+Pilot Officer
 
 [ST_PR04]
-Cabo
+Corporal
 
 [ST_PR05]
-Teniente
+Lieutenant
 
 [ST_PR06]
-Sargento
+Sergeant
 
 [ST_PR07]
-Capitán
+Captain
 
 [ST_PR08]
 Biggs
@@ -4439,16 +4445,16 @@ Biggs
 Wedge
 
 [ST_PR10]
-Barón Rojo
+Red Baron
 
 [ST_PR11]
-Ánsar
+Goose
 
 [ST_PR12]
-Víbora
+Viper
 
 [ST_PR13]
-Bufón
+Jester
 
 [ST_PR14]
 Chappy
@@ -4463,46 +4469,46 @@ Maverick
 Noops
 
 [ST_PR18]
-Jefe Marshal Aéreo
+Air Chief Marshal
 
 [ST_PR19]
-As
+Ace
 
 [FET_LG]
-Cargar partida
+Load Game
 
 [STHC_01]
-Mayor puntuación en shooter
+Highest score for Shooter
 
 [STHC_02]
-Mejor porcentaje de aciertos en shooter
+Best Percentage of hits for Shooter
 
 [STHC_03]
-Trapicheos con drogas
+Number of drug deals made
 
 [NEW_REC]
-~g~¡¡Nuevo récord!! ~w~~1~ minuto ~g~y ~w~~1~ segundos.
+~g~New Record Set!! ~w~~1~ minutes ~g~and ~w~~1~ seconds.
 
 [STHC_04]
-Mayor puntuación al "Que no toque" en la playa
+Highest score with Keepie-Uppy beach ball
 
 [STHC_05]
-Mejor resultado en circuito del estadio
+Hotring Best Result
 
 [STFT_21]
-Tiempo más rápido en circuito del estadio
+Fastest time in Hotring
 
 [STFT_22]
-Vuelta más rápida en circuito del estadio
+Fastest lap time in Hotring
 
 [FEST_BB]
 Bling-bling Scramble:
 
 [FEST_H0]
-Mayoría de puntos de control
+Most checkpoints
 
 [FEST_GC]
-Coches de banda destruidos:
+Gang Cars Totaled:
 
 [FEST_H1]
 Diablo destruction
@@ -4517,148 +4523,148 @@ Casino Calamity
 Rumpo Wrecker
 
 [SN_ONE]
-Fotografías: ~1~ de ~1~
+Snapshot ~1~ out of ~1~
 
 [SN_ALL]
-¡Ya tienes todas las fotos!
+All snapshots taken!
 
 [HO_ONE]
-Herraduras: ~1~ de ~1~
+Horseshoes ~1~ out of ~1~
 
 [HO_ALL]
-¡Has encontrado todas las herraduras!
+All horseshoes found!
 
 [OY_ONE]
-Ostras: ~1~ de ~1~
+Oysters ~1~ out of ~1~
 
 [OY_ALL]
-¡Has encontrado todas las ostras!
+All oysters found!
 
 [DEAD]
-Eliminado
+Wasted
 
 [BUSTED]
-Trincado
+Busted
 
 [USJ]
-¡BONIFICACIÓN DE ACROBACIA ÚNICA!
+UNIQUE STUNT BONUS!
 
 [USJ_ALL]
-¡TODAS LAS ACROBACIAS ÚNICAS COMPLETADAS!
+ALL UNIQUE STUNTS COMPLETED!
 
 [STOCK]
-~r~Sin existencias
+~r~out of stock
 
 [PROP_1]
-No tienes suficiente dinero para comprar esta propiedad.
+You don't have enough cash for this property.
 
 [PROP_2]
-No puedes comprar propiedades durante una misión.
+You cannot buy property whilst on a mission.
 
 [GA_12]
-Bomba activada
+Bomb armed.
 
 [GA_1]
-~r~¡Hala! ¡No pienso tocar algo TAN buscado!
+~r~Whoa! I don't touch nothing THAT hot!
 
 [GA_22]
-Tu novia te ha arreglado el vehículo.
+Your girlfriend has fixed your vehicle.
 
 [GA_4]
-Las bombas de coche cuestan 500 $ la unidad.
+Car bombs are $500 each.
 
 [SKIP]
-Más tarde, en ese mismo día...
+Later that day...
 
 [FEN_NET]
-JUEGO EN RED
+NETWORK PLAY
 
 [FEN_SCO]
-SELECCIONAR CONFIGURACIÓN
+SELECT CONFIGURATION
 
 [FEN_HOS]
-ANFITRIÓN DE PARTIDA
+HOST GAME
 
 [FEN_JON]
-UNIRSE A PARTIDA
+JOIN GAME
 
 [FEN_PRO]
-PROTOCOLO:
+PROTOCOL:
 
 [FEN_HAR]
 HARDWARE:
 
 [FEN_ISP]
-NOMBRE ISP:
+ISP NAME:
 
 [FET_SG]
-Guardar partida
+Save Game
 
 [FEH_BRI]
-Información
+Brief
 
 [FEH_DIS]
-Pantalla
+Display
 
 [FEH_MAP]
-Mapa
+Map
 
 [FEM_OK]
-ACEPTAR
+OK
 
 [FEC_CRO]
-Agacharse
+Crouch
 
 [FEC_LB4]
-Mirar atrás ~k~~PED_DUCK~
+Look behind ~C~
 
 [FEC_SMT]
-Submisión
+Sub-mission
 
 [FEC_SM3]
-Submisión ~k~~TOGGLE_SUBMISSIONS~
+Sub-mission ~C~
 
 [LOADCOL]
-Cargando...
+Loading...
 
 [FEM_SL1]
-No hay archivo guardado 1
+Save File 1 Not Present
 
 [FEM_SL2]
-No hay archivo guardado 2
+Save File 2 Not Present
 
 [FEM_SL3]
-No hay archivo guardado 3
+Save File 3 Not Present
 
 [FEM_SL4]
-No hay archivo guardado 4
+Save File 4 Not Present
 
 [FEM_SL5]
-No hay archivo guardado 5
+Save File 5 Not Present
 
 [FEM_SL6]
-No hay archivo guardado 6
+Save File 6 Not Present
 
 [FEM_SL7]
-No hay archivo guardado 7
+Save File 7 Not Present
 
 [FEM_SL8]
-No hay archivo guardado 8
+Save File 8 Not Present
 
 [FEA_CHA]
-Cambiando sonido a ESTÉREO. Espera...
+Changing audio output to STEREO. Please wait...
 
 [FEI_SEL]
-~k~~PED_SPRINT~ Seleccionar
+~x~ Select
 
 [FEI_BAC]
-~k~~VEHICLE_ENTER_EXIT~ Atrás
+~t~ Back
 
 [FEI_STO]
 Stop
 
 [MAP_LEG]
-Leyenda
+Legend
 
 [FEI_HOL]
 Hold
@@ -4670,28 +4676,28 @@ Zoom
 > < -
 
 [FEI_NA]
-N/D
+N\A
 
 [MESA]
 Mesa Grande
 
 [LG_01]
-Posición del jugador
+Player position
 
 [LG_02]
-Recinto aéreo
+Air yard
 
 [LG_03]
 Ammu-Nation
 
 [LG_04]
-Barbería
+Barbers
 
 [LG_05]
 Big Smoke
 
 [LG_06]
-Recinto marítimo
+Boat Yard
 
 [LG_07]
 Burger Shot
@@ -4700,7 +4706,7 @@ Burger Shot
 Catalina
 
 [LG_10]
-César
+Cesar
 
 [LG_12]
 CJ
@@ -4709,22 +4715,22 @@ CJ
 Crash
 
 [LG_16]
-Ataque enemigo
+Enemy Attack
 
 [LG_17]
-Disparar
+Fire
 
 [LG_18]
-Novia
+Girlfriend
 
 [LG_19]
 Hospital
 
 [LG_20]
-Loco Syndicate
+Loco
 
 [LG_21]
-Madd Dogg
+Maddog
 
 [LG_22]
 Mafia
@@ -4733,28 +4739,28 @@ Mafia
 MC Strap
 
 [LG_24]
-Garaje de modificación
+Mod Garage
 
 [LG_27]
-Policía
+Police
 
 [LG_28]
-Propiedad en venta
+Property for sale
 
 [LG_29]
-Propiedad no en venta
+Property not for sale
 
 [LG_30]
-Carrera
+Race
 
 [LG_31]
 Ryder
 
 [LG_32]
-Piso franco
+Safe House
 
 [LG_33]
-Escuela
+School
 
 [LG_34]
 Pay 'n' Spray
@@ -4763,166 +4769,166 @@ Pay 'n' Spray
 Sweet
 
 [LG_36]
-Tatuaje
+Tattoo
 
 [LG_37]
-Truth
+The Truth
 
 [LG_38]
 Toreno
 
 [LG_39]
-Rancho de Toreno
+Toreno's Ranch
 
 [LG_40]
-Tríada
+Triads
 
 [LG_41]
-Casino de la Tríada
+Triads Casino
 
 [LG_42]
-Tienda de ropa
+Clothes Shop
 
 [LG_43]
 Woozie
 
 [LG_44]
-Cero
+Zero
 
 [MAP_YAH]
-ESTÁS AQUÍ
+YOU ARE HERE
 
 [FE_MLG]
-Leyenda del mapa
+Map Legend
 
 [FED_RDR]
-MODO RADAR
+RADAR MODE
 
 [FED_HUD]
-MODO VISOR
+HUD MODE
 
 [FED_BLP]
-Iconos
+Blips
 
 [FED_BL1]
-Lugares
+Locations
 
 [FED_BL2]
-Contactos
+Contacts
 
 [FED_BL3]
-Misión
+Mission
 
 [FED_BL4]
-Otros
+Other
 
 [FED_RDB]
-SOLO ICONOS
+BLIPS ONLY
 
 [FEC_ABR]
-Acelerar, frenar o marcha atrás
+Accelerate, Brake or Reverse
 
 [FEI_SCR]
-Desplazamiento
+Scroll
 
 [FED_RDM]
-MAPAS E ICONOS
+MAP & BLIPS
 
 [FEC_ILU]
-Invertir vista
+Invert Look
 
 [FEM_STE]
-USAR ESTÉREO
+USE STEREO
 
 [GREET]
 Greetings from...
 
 [FEM_ON]
-SÍ
+ON
 
 [FEM_OFF]
-NO
+OFF
 
 [FEM_YES]
-Sí
+Yes
 
 [FEM_NO]
 No
 
 [FEC_MOV]
-Movimiento
+Movement
 
 [FEC_GAN]
-Control de banda
+Gang control
 
 [FEC_CAM]
-Modos de cámara
+Camera modes
 
 [FEC_PAU]
-Pausa
+Pause
 
 [FEC_FPC]
-Cámara en primera persona
+First person camera
 
 [FEC_LL]
-Mirar a la izquierda
+Look left
 
 [FEC_LB]
-Mirar atrás
+Look behind
 
 [FEC_LR]
-Mirar a la derecha
+Look right
 
 [FEC_HOR]
-Claxon
+Horn
 
 [FEC_VES]
-Control del vehículo
+Vehicle control
 
 [FEC_HAB]
-Freno de mano
+Hand brake
 
 [FEC_CAW]
-Arma
+Weapon
 
 [FEC_ACC]
-Acelerar
+Accelerate
 
 [FEC_CCF]
-Configuración
+Configuration
 
 [FEC_CF1]
-Configuración 1
+Setup 1
 
 [FEC_CF2]
-Configuración 2
+Setup 2
 
 [FEC_CF3]
-Configuración 3
+Setup 3
 
 [FEC_CF4]
-Configuración 4
+Setup 4
 
 [FEC_CDP]
-Tipo de controles
+Controller Type
 
 [FEC_VIB]
-Vibración
+Vibration
 
 [FEL_ENG]
-Inglés
+English
 
 [FEL_FRE]
-Francés
+French
 
 [FEL_GER]
-Alemán
+German
 
 [FEL_ITA]
-Italiano
+Italian
 
 [FEL_SPA]
-Español
+Spanish
 
 [FED_DBG]
 Menu Debug
@@ -5003,133 +5009,133 @@ Test Load:
 Test Delete:
 
 [PL_STAT]
-Estadísticas del jugador
+Player stats
 
 [PER_COM]
-Porcentaje completado
+Percentage completed
 
 [ACCURA]
-Precisión
+Accuracy
 
 [TOP_SHO]
-Puntuación máxima en el campo de tiro
+Top Shooting Range Score
 
 [SHO_RAN]
-Clasificación en el campo de tiro
+Shooting Range Rank
 
 [GAMBSPN]
-Dinero gastado apostando
+Money Spent Gambling
 
 [GAMBWON]
-Dinero ganado apostando
+Money Won Gambling
 
 [LARGWIN]
-Mayor ganancia apostando
+Largest Gambling Win
 
 [ST_RAN0]
-Aprendiz
+Learner
 
 [ST_RAN1]
-Navegante
+Navigator
 
 [ST_RAN2]
-Copiloto
+Co Pilot
 
 [ST_RAN3]
 Junior
 
 [ST_RAN4]
-Competente
+Competent
 
 [ST_RAN5]
-Sénior
+Senior
 
 [ST_RAN6]
-As
+Ace
 
 [ST_RAN7]
-Barón Rojo
+Red baron
 
 [INSTUN]
-Acrobacia demencial
+Insane stunt
 
 [PRINST]
-Acrobacia demencial perfecta
+Perfect insane stunt
 
 [DBINST]
-Acrobacia demencial doble
+Double insane stunt
 
 [DBPINS]
-Acrobacia demencial doble perfecta
+Perfect double insane stunt
 
 [TRINST]
-Acrobacia demencial triple
+Triple insane stunt
 
 [PRTRST]
-Acrobacia demencial triple perfecta
+Perfect triple insane stunt
 
 [QUINST]
-Acrobacia demencial cuádruple
+Quadruple insane stunt
 
 [PQUINS]
-Acrobacia demencial cuádruple perfecta
+Perfect quadruple insane stunt
 
 [NOSTUC]
-No hay acrobacias DEMENCIALES completadas
+No INSANE stunts completed
 
 [CRIMRA]
-Índice criminal:
+Criminal rating:
 
 [SET1EN]
-Configuración 1. Activada.
+SetUp 1. Enabled
 
 [GMSAVE]
-Guardar partida
+Save Game
 
 [FEDS_TB]
-Atrás
+Back
 
 [FEST_OO]
-de
+out of
 
 [FEC_RS3]
-Cambiar de emisora de radio ~k~~PED_LOOKBEHIND~
+Radio station cycle ~A~
 
 [FEC_HO3]
-Claxon ~k~~VEHICLE_HORN~
+Horn ~A~
 
 [NOCONT]
-Vuelve a conectar un mando analógico (DUALSHOCK#) o un mando analógico (DUALSHOCK#2) al puerto de mando 1 para continuar.
+Please connect a DUALSHOCK# analog controller or DUALSHOCK#2 analog controller to controller port 1 to continue.
 
 [NOCONTE]
-Vuelve a conectar un mando analógico (DUALSHOCK#) o un mando analógico (DUALSHOCK#2) al puerto de mando 1 para continuar.
+Please connect an analog controller (DUALSHOCK#) or analog controller (DUALSHOCK#2) to controller port 1 to continue.
 
 [WRCONT]
-El mando conectado al puerto de mando 1 no es compatible. Grand Theft Auto: San Andreas requiere un mando analógico (DUALSHOCK#) o un mando analógico (DUALSHOCK#2).
+The controller connected to controller port 1 is an unsupported controller. Grand Theft Auto: San Andreas requires an analog controller (DUALSHOCK#) or analog controller (DUALSHOCK#2).
 
 [WRCONTE]
-El mando conectado al puerto de mando 1 no es compatible. Grand Theft Auto: San Andreas requiere un mando analógico (DUALSHOCK#) o un mando analógico (DUALSHOCK#2).
+The controller connected to controller port 1 is an unsupported controller. Grand Theft Auto: San Andreas requires an analog controller (DUALSHOCK#) or analog controller (DUALSHOCK#2).
 
 [WRONGCD]
-Disco incorrecto. Inserta el disco correcto.
+Incorrect disc. Please insert correct disc.
 
 [NOCD]
-La bandeja del disco está vacía. Inserta el disco.
+The disc tray is empty. Please insert disc.
 
 [OPENCD]
-La bandeja del disco está abierta. Cierra la bandeja del disco.
+The disc tray is open. Please close the disc tray.
 
 [RESTART]
-Iniciando una nueva partida. Espera...
+Starting new game. Please wait...
 
 [FESZ_CA]
-Cancelar
+Cancel
 
 [FES_NGA]
-Nueva partida
+New Game
 
 [FES_CAN]
-Cancelar
+Cancel
 
 [PAGE_00]
 .
@@ -5138,100 +5144,100 @@ Cancelar
 WELCOME TO
 
 [CHEAT1]
-Truco activado
+Cheat activated
 
 [CHEAT2]
-Truco de arma
+Weapon cheat
 
 [CHEAT3]
-Truco de salud
+Health cheat
 
 [CHEAT4]
-Truco de blindaje
+Armor cheat
 
 [CHEAT5]
-Truco de nivel de búsqueda
+Wanted level cheat
 
 [CHEAT6]
-Truco de dinero
+Money cheat
 
 [CHEAT7]
-Truco de clima
+Weather cheat
 
 [FEM_RET]
-REINTENTAR
+RETRY
 
 [WARNING]
-Aviso
+Warning
 
 [FEC_FIR]
-Disparar
+Fire
 
 [FEC_NWE]
-Arma siguiente/objetivo
+Next weapon/target
 
 [FEC_PWE]
-Arma anterior/objetivo
+Previous weapon/target
 
 [FEC_FOR]
-Adelante
+Forward
 
 [FEC_BAC]
-Atrás
+Backwards
 
 [FEC_LEF]
-Izquierda
+Left
 
 [FEC_RIG]
-Derecha
+Right
 
 [FEC_ZIN]
-zoom +
+Zoom in
 
 [FEC_ZOT]
-zoom -
+Zoom out
 
 [FEC_EEX]
-Entrar+salir
+Enter+exit
 
 [FEC_RAD]
 Radio
 
 [FEC_SUB]
-Submisión
+Sub-mission
 
 [FEC_CMR]
-Cambiar cámara
+Change camera
 
 [FEC_JMP]
-Saltar
+Jump
 
 [FEC_SPN]
-Esprintar
+Sprint
 
 [FEC_HND]
-Freno de mano
+Handbrake
 
 [FEC_LOL]
-Mirar a la izquierda
+Look left
 
 [FEC_LOR]
-Mirar a la derecha
+Look right
 
 [FEC_NTR]
-Objetivo siguiente
+Next target
 
 [FEC_PTT]
-Objetivo anterior
+Previous target
 
 [FEC_LBA]
-Mirar atrás
+Look behind
 
 [FEC_CEN]
-Centrar cámara
+Center camera
 
 [FET_CAC]
-ACCIÓN
+ACTION
 
 [FEC_MXO]
 MXB1
@@ -5240,85 +5246,85 @@ MXB1
 MXB2
 
 [FEC_UNB]
-DESVINC.
+UNBOUND
 
 [FEC_MWF]
-RUEDA_ADEL.
+MS WHEEL UP
 
 [FEC_MWB]
-RUEDA_ATRÁS
+MS WHEEL DN
 
 [FEC_ORR]
-o
+or
 
 [FEC_NUS]
-NO SE USA
+NOT USED
 
 [FEC_LUD]
-Mirar arriba
+Look Up
 
 [FEC_LDU]
-Mirar abajo
+Look Down
 
 [FEH_STA]
-Estadísticas
+Stats
 
 [FEH_LOA]
-Juego
+Game
 
 [FEH_GAL]
-Galería
+Gallery
 
 [FEH_AUD]
-Sonido
+Audio
 
 [FEH_LAN]
-Idioma
+Language
 
 [FEH_SGA]
-INICIAR NUEVA PARTIDA
+START NEW GAME
 
 [FEO_CON]
-Config. controles
+Controller Setup
 
 [FEO_AUD]
-Config. sonido
+Audio Setup
 
 [FEO_DIS]
-Config. pantalla
+Display Setup
 
 [FEO_LAN]
-Configuración del idioma
+Language Setup
 
 [FEO_PLA]
-Configuración de jugador
+Player Setup
 
 [FEA_MUS]
 Radio
 
 [FEA_SFX]
-Efectos de sonido
+SFX
 
 [FEA_OUT]
-Salida
+Output
 
 [FEA_MON]
 Mono
 
 [FEA_ST]
-Estéreo
+Stereo
 
 [FEA_DPL]
 Pro Logic II
 
 [FEA_RSS]
-Emisora
+Radio station
 
 [FEA_NON]
 RADIO OFF
 
 [FEA_FM0]
-ROCK CLÁSICO
+CLASSIC ROCK
 
 [FEA_FM1]
 DISCO FUNK
@@ -5327,7 +5333,7 @@ DISCO FUNK
 RARE GROOVE
 
 [FEA_FM3]
-CLÁSICOS HOUSE
+HOUSE CLASSICS
 
 [FEA_FM4]
 EARLY RAVE
@@ -5336,16 +5342,16 @@ EARLY RAVE
 NEW JACK SWING
 
 [FEA_FM6]
-HIP HOP CLÁSICO
+CLASSIC HIP HOP
 
 [FEA_FM7]
-ROCK MODERNO
+MODERN ROCK
 
 [FEA_FM8]
 REGGAE
 
 [FEA_FM9]
-HIP HOP MODERNO
+MODERN HIP HOP
 
 [FEA_R0]
 Playback FM
@@ -5381,79 +5387,79 @@ Master Sounds 98.3
 WCTR
 
 [FED_BRI]
-Brillo
+Brightness
 
 [FED_TRA]
 Trails
 
 [FED_SUB]
-Subtítulos
+Subtitles
 
 [FED_WIS]
-Pantalla panorámica
+Widescreen
 
 [FED_POS]
-Posición de la pantalla
+Screen Position
 
 [FEP_RES]
-Reanudar
+Resume
 
 [FEP_STG]
-Iniciar partida
+Start Game
 
 [FEP_STA]
-Estadísticas
+Stats
 
 [FEP_BRI]
-Información
+Briefs
 
 [FEP_OPT]
-Opciones
+Options
 
 [FEP_QUI]
-Salir de la partida
+Quit Game
 
 [FES_LOA]
-Cargar partida
+Load Game
 
 [FES_DEL]
-Borrar partida
+Delete Game
 
 [FEC_CSU]
-Configuración de controles
+Controller Setup
 
 [FEC_RED]
-Redefinir controles
+Redefine Controls
 
 [FEC_MOU]
-Ajustes del ratón
+Mouse Settings
 
 [FET_STI]
-Configuración estándar del control
+Standard Control Configuration
 
 [FET_CTI]
-Configuración clásica del control
+Classic Control Configuration
 
 [ST_FAVR]
-Emisora de radio favorita
+Favorite radio station
 
 [ST_WSTR]
-Emisora de radio menos usada
+least favorite radio station
 
 [ST_FAVV]
-Vehículo favorito
+Favorite vehicle
 
 [ST_GNG0]
 Ballas
 
 [ST_GNG1]
-Families de Grove Street
+Grove Street Families
 
 [ST_GNG2]
-Vagos de Los Santos
+Los Santos Vagos
 
 [ST_GNG3]
-Rifas de San Fierro
+San Fierro Rifa
 
 [ST_GNG4]
 Da Nang Boys
@@ -5462,7 +5468,7 @@ Da Nang Boys
 Mafia
 
 [ST_GNG6]
-Tríada Mountain Cloud
+Mountain Cloud Triad
 
 [ST_GNG7]
 Varrio Los Aztecas
@@ -5474,580 +5480,580 @@ Gang 9
 Gang 10
 
 [ST_LAB0]
-Banda más grande
+Biggest gang
 
 [ST_LAB1]
-2a. banda más grande
+2nd biggest gang
 
 [ST_LAB2]
-3a. banda más grande
+3rd biggest gang
 
 [DAY_1]
-DOM
+SUN
 
 [DAY_2]
-LUN
+MON
 
 [DAY_3]
-MAR
+TUE
 
 [DAY_4]
-MIE
+WED
 
 [DAY_5]
-JUE
+THU
 
 [DAY_6]
-VIE
+FRI
 
 [DAY_7]
-SAB
+SAT
 
 [ST_INC]
-~a~ ha aumentado en ~1~.~1~. Su nuevo valor es ~1~.~1~.
+~a~ increased by ~1~.~1~ New value is ~1~.~1~
 
 [ST_DEC]
-~a~ ha disminuido en ~1~.~1~. Su nuevo valor es ~1~.~1~.
+~a~ decreased by ~1~.~1~ New value is ~1~.~1~
 
 [ST_REG]
-~a~ - ~1~.~1~ registrado. El nuevo valor es ~1~.~1~.
+~a~ - ~1~.~1~ registered New value is ~1~.~1~
 
 [ST_SET]
-~a~ establecido en ~1~.~1~. El nuevo valor es ~1~.~1~.
+~a~ set to ~1~.~1~ New value is ~1~.~1~
 
 [ST_MILE]
-millas
+miles
 
 [ST_SECS]
-segundos
+seconds
 
 [TOT_DIS]
-Distancia total recorrida
+Total distance covered
 
 [STWE001]
-Pistola
+Pistol
 
 [STWE002]
-Pistola con silenciador
+Silenced Pistol
 
 [STWE003]
 Desert Eagle
 
 [STWE004]
-Escopeta
+Shotgun
 
 [STWE005]
-Escopeta recortada
+Sawn-off Shotgun
 
 [STWE006]
-Escopeta de combate
+Combat Shotgun
 
 [STWE007]
-Metralleta
+Machine Pistol
 
 [STWE008]
-Subfusil
+SMG
 
 [STWE009]
-AK-47
+AK47
 
 [STWE010]
 M4
 
 [STWE011]
-Tec 9
+Tec9
 
 [WS_POOR]
-Cutre
+Poor
 
 [WS_STD]
-Gánster
+Gangster
 
 [WS_PRO]
-Asesino Profesional
+Hitman
 
 [STAT000]
-Progreso realizado
+Progress made
 
 [STAT001]
-Progreso total
+Total progress
 
 [STAT002]
-Aro más lejano
+Furthest Hoop
 
 [STAT003]
-Distancia recorrida a pie
+Distance travelled on foot
 
 [STAT004]
-Distancia recorrida en coche
+Distance travelled by car
 
 [STAT005]
-Distancia recorrida en motocicleta
+Distance travelled by motorbike
 
 [STAT006]
-Distancia recorrida en barco
+Distance travelled by boat
 
 [STAT007]
-Distancia recorrida en carro de golf
+Distance travelled by golf cart
 
 [STAT009]
-Distancia recorrida en avión
+Distance travelled by plane
 
 [STAT010]
-Distancia más larga haciendo un caballito
+Longest Wheelie distance
 
 [STAT011]
-Distancia más larga sobre rueda delantera
+Longest Stoppie distance
 
 [STAT012]
-Distancia más larga sobre 2 ruedas
+Longest 2 wheels distance
 
 [STAT013]
-Gasto en armas
+Weapon Budget
 
 [STAT014]
-Gasto en moda
+Fashion Budget
 
 [STAT015]
-Gasto en propiedades
+Property Budget
 
 [STAT016]
-Gasto en reparación de coches y pintura
+Auto Repair and Painting Budget
 
 [STAT017]
-Mayor tiempo haciendo un caballito
+Longest Wheelie time
 
 [STAT018]
-Mayor tiempo sobre rueda delantera
+Longest Stoppie time
 
 [STAT019]
-Mayor tiempo sobre 2 ruedas
+Longest 2 wheels time
 
 [STAT020]
-Gasto en comida
+Food Budget
 
 [STAT021]
-Gordura
+Fat
 
 [STAT022]
-Resistencia
+Stamina
 
 [STAT023]
-Musculatura
+Muscle
 
 [STAT024]
-Salud máxima
+Max Health
 
 [STAT025]
-Sex-appeal
+Sex appeal
 
 [STAT026]
-Distancia recorrida a nado
+Distance travelled by swimming
 
 [STAT027]
-Distancia recorrida en bicicleta
+Distance travelled by bicycle
 
 [STAT028]
-Distancia recorrida en máquina de correr
+Distance travelled on treadmill
 
 [STAT030]
-Gasto en tatuajes
+Tattoo budget
 
 [STAT031]
-Gasto en peluquería
+Hairdressing budget
 
 [STAT032]
-Gasto en novia
+Girlfriend budget
 
 [STAT034]
-Gasto en mobiliario
+Furniture budget
 
 [STAT035]
-Dinero gastado apostando
+Money spent gambling
 
 [STAT037]
-Dinero ganado apostando
+Money won gambling
 
 [STAT038]
-Mayor ganancia apostando
+Biggest gambling win
 
 [STAT039]
-Mayor pérdida apostando
+Biggest gambling loss
 
 [STAT040]
-Mayor botín robando en una casa
+Largest burglary swag
 
 [STAT041]
-Dinero ganado robando en casas
+Money made from burglary
 
 [STAT042]
-Dinero gastado en construir propiedades
+Money spent building property
 
 [STAT044]
-Mayor tiempo en máquina de correr
+Longest treadmill time
 
 [STAT046]
-Mayor peso en banco de pesas
+Heaviest weight on bench press
 
 [STAT047]
-Mayor peso en mancuernas
+Heaviest weight on dumbbells
 
 [STAT050]
-Peso menor
+Lightest weight
 
 [STAT051]
-Mayor tiempo de persecución con 5 estrellas
+Longest chase time with 5 or more stars
 
 [STAT052]
-Última persecución con 5 estrellas
+Last chase time with 5 or more stars
 
 [STAT053]
-Cuenta de nóminas
+Wage bill
 
 [STAT054]
-Gasto en clubs de Striptease
+Strip club budget
 
 [STAT055]
-Gasto en modificación de coches
+Car modification budget
 
 [STAT056]
-Tiempo empleado en compras
+Time spent shopping
 
 [STAT057]
-Tiempo empleado en apuestas
+Time spent gambling
 
 [STAT058]
-Tiempo empleado en la misión más larga
+Time spent on longest mission
 
 [STAT059]
-Tiempo empleado en la misión más rápida
+Time spent on quickest mission
 
 [STAT060]
-Tiempo medio de misión
+Average mission time
 
 [STAT061]
-Gasto en drogas
+Drugs budget
 
 [STAT062]
-Gasto total en compras
+Total shopping budget
 
 [STAT063]
-Tiempo pasado bajo el agua
+Time spent underwater
 
 [STAT064]
-Respeto total
+Total respect
 
 [STAT065]
-Respeto por novia
+Girlfriend respect
 
 [STAT066]
-Respeto por ropa
+Clothes respect
 
 [STAT067]
-Respeto por forma física
+Fitness respect
 
 [STAT068]
-Respeto
+Respect
 
 [STAT069]
-Habilidad con pistola
+Pistol Skill
 
 [STAT070]
-Habilidad con pistola con silenciador
+Silenced Pistol Skill
 
 [STAT071]
-Habilidad con Desert Eagle
+Desert Eagle Skill
 
 [STAT072]
-Habilidad con escopeta
+Shotgun Skill
 
 [STAT073]
-Habilidad con escopeta recortada
+Sawn-Off Shotgun Skill
 
 [STAT074]
-Habilidad con escopeta de combate
+Combat Shotgun Skill
 
 [STAT075]
-Habilidad con metralleta
+Machine Pistol Skill
 
 [STAT076]
-Habilidad con subfusil
+SMG Skill
 
 [STAT077]
-Habilidad con AK-47
+AK-47 Skill
 
 [STAT078]
-Habilidad con M4
+M4 Skill
 
 [STAT079]
-Habilidad con rifle
+Rifle Skill
 
 [STAT080]
-Apariencia
+Appearance
 
 [STAT081]
-Apuestas
+Gambling
 
 [STAT120]
-Gente abatida por otros
+People wasted by others
 
 [STAT121]
-Gente abatida por ti
+People you've wasted
 
 [STAT122]
-Vehículos destruidos en carretera
+Road Vehicles destroyed
 
 [STAT123]
-Barcos destruidos
+Boats destroyed
 
 [STAT124]
-Aviones y helicópteros destruidos
+Planes & Helicopters destroyed
 
 [STAT125]
-Coste de propiedades dañadas
+Cost of property damaged
 
 [STAT126]
-Balas disparadas
+Bullets fired
 
 [STAT127]
-Kg de explosivos empleados
+Kgs of explosives used
 
 [STAT128]
-Balas que han dado en el blanco
+Bullets that hit
 
 [STAT130]
-Disparos en la cabeza
+Number of headshots
 
 [STAT131]
-Total de estrellas de búsqueda obtenidas
+Total number of wanted stars attained
 
 [STAT132]
-Total de estrellas de búsqueda eludidas
+Total number of wanted stars evaded
 
 [STAT133]
-Veces que te han detenido
+Times busted
 
 [STAT134]
-Días transcurridos en el juego
+Days passed in game
 
 [STAT135]
-Visitas al hospital
+Number of hospital visits
 
 [STAT136]
-Visitas a pisos francos
+Safehouse visits
 
 [STAT137]
-Veces que has usado trucos
+Times cheated
 
 [STAT138]
-Vehículos repintados
+Vehicle Resprays
 
 [STAT139]
-Distancia máxima de saltos demenciales
+Maximum INSANE Jump distance
 
 [STAT140]
-Altura máxima de saltos demenciales
+Maximum INSANE Jump height
 
 [STAT141]
-Vueltas máximas en salto demencial
+Maximum INSANE Jump flips
 
 [STAT142]
-Rotación máxima en salto demencial
+Maximum INSANE Jump rotation
 
 [STAT143]
-Mejor acrobacia demencial otorgada
+Best INSANE stunt awarded
 
 [STAT144]
-Saltos únicos encontrados
+Unique Jumps found
 
 [STAT145]
-Saltos únicos realizados
+Unique Jumps done
 
 [STAT146]
-Intentos
+Mission attempts
 
 [STAT147]
-Misiones superadas
+Missions passed
 
 [STAT148]
-Total de misiones en el juego
+Total number of missions in game
 
 [STAT149]
-Dinero ganado en taxi
+Cash made in a Taxi
 
 [STAT150]
-Pasajeros llevados a su destino
+Passengers dropped off
 
 [STAT151]
-Gente salvada en ambulancia
+People saved in an Ambulance
 
 [STAT152]
-Criminales abatidos en misión de Vigilante
+Criminals killed on Vigilante Mission
 
 [STAT153]
-Total de incendios apagados
+Total fires extinguished
 
 [STAT155]
-Asesinatos
+Assassinations
 
 [STAT156]
-Puntuación de último baile
+Last dance score
 
 [STAT157]
-Mayor nivel en misión de Vigilante
+Highest Vigilante Mission level
 
 [STAT158]
-Mayor nivel en misión de conductor de ambulancia
+Highest Paramedic Mission level
 
 [STAT159]
-Mayor nivel de misión de bombero
+Highest Firefighter Mission level
 
 [STAT160]
-Habilidad de conducción
+Driving skill
 
 [STAT163]
-Miembros de banda reclutados que han sido abatidos
+Recruited gang members killed
 
 [STAT164]
-Blindaje
+Armor
 
 [STAT165]
-Energía
+Energy
 
 [STAT166]
-Fotografías tomadas
+Photographs Taken
 
 [STAT167]
-Devastaciones intentadas
+Rampages attempted
 
 [STAT168]
-Devastaciones superadas
+Rampages passed
 
 [STAT169]
-Tiempo de vuelo
+Flight time
 
 [STAT173]
-Tiempo en mochila propulsora
+Time on jetpack
 
 [STAT174]
-Niveles superados en campo de tiro
+Shooting range levels passed
 
 [STAT175]
-Mayor número de coches aparcados en aparcacoches
+Most cars parked on 'Valet Parking'
 
 [STAT176]
-Abatidos desde el último punto de control
+Kills since last checkpoint
 
 [STAT177]
-Total de muertes legítimas
+Total legitimate kills
 
 [STAT178]
-Número de abatidos en "bloodring"
+Number of 'Bloodring' kills
 
 [STAT179]
-Tiempo total en "bloodring"
+Total time in bloodring
 
 [STAT180]
 No more hurricanes Flag
 
 [STAT181]
-Ciudad desbloqueada
+City unlocked
 
 [STAT182]
-Sobornos policiales
+Number of Police bribes
 
 [STAT183]
-Coches robados
+Number of cars stolen
 
 [STAT184]
-Cantidad actual de novias
+Current number of girlfriends
 
 [STAT186]
-Chicas con las que has salido
+Number of girls dated
 
 [STAT187]
-Veces que te lo has hecho con una titi
+Number of times scored with a girl
 
 [STAT189]
-Chicas con las que has cortado
+Number of girls dumped
 
 [STAT191]
-Casas robadas
+Number of houses burgled
 
 [STAT192]
-Cajas fuertes reventadas
+Number of safes cracked
 
 [STAT193]
-Estado de ladrón
+Burgular status
 
 [STAT194]
-Objetos robados vendidos
+Number of stolen items sold
 
 [STAT195]
-Bolas ocho en billar
+Number of eight balls in pool
 
 [STAT196]
-Victorias jugando al billar
+Total number of wins playing pool
 
 [STAT197]
-Total de derrotas jugando al billar
+Total number of losses playing pool
 
 [STAT198]
-Visitas al gimnasio
+Times visited the gym
 
 [STAT199]
-Constitución física
+Body type
 
 [STAT200]
-Comidas ingeridas
+Number of meals eaten
 
 [STAT201]
-Dinero ganado en Cantera
+Money made in Quarry
 
 [STAT202]
-Tiempo llevado en completar Cantera
+Time taken to Complete Quarry
 
 [STAT203]
-Muebles comprados
+Number of furniture purchased
 
 [STAT204]
-Juego de consola favorito
+Favorite console game
 
 [STAT205]
-Máximo de civiles abatidos en devastación
+Highest civilian peds killed on Rampage
 
 [STAT206]
-Máximo de polis abatidos en devastación
+Highest police peds killed on Rampage
 
 [STAT207]
-Máximo de vehículos civiles devastados
+Highest civilian vehicles destroyed on Rampage
 
 [STAT208]
-Máximo de vehículos policiales devastados
+Highest police vehicles destroyed on Rampage
 
 [STAT209]
-Máximo de tanques devastados
+Highest number of tanks destroyed on Rampage
 
 [STAT215]
-Puntuación máxima en baloncesto
+Highest basketball score
 
 [STAT216]
-Incendios iniciados
+Fires started
 
 [STAT217]
-Cantidad de drogas vendidas
+Amount of drugs sold
 
 [STAT218]
-Cantidad de drogas compradas
+Amount of drugs bought
 
 [STAT222]
-Mejor tiempo con la NRG-500
+NRG-500 best time
 
 [STAT223]
-Habilidad de vuelo
+Flying skill
 
 [STAT225]
-Cap. pulmonar
+Lung capacity
 
 [STAT226]
 Game gore rating
@@ -6056,112 +6062,112 @@ Game gore rating
 Game sex rating
 
 [STAT230]
-Habilidad con bicicletas
+Cycling skill
 
 [STAT231]
-Fotografías realizadas
+Snapshots taken
 
 [STAT232]
-Total de fotografías
+Total snapshots
 
 [STAT233]
-Suerte
+Luck
 
 [STAT234]
-Territorios conquistados
+Territories taken over
 
 [STAT235]
-Territorios perdidos
+Territories lost
 
 [STAT236]
-Territorios mantenidos
+Territories held
 
 [STAT237]
-Mayor número de territorios mantenidos
+Highest number of territories held
 
 [STAT238]
-Miembros de banda reclutados
+Gang members recruited
 
 [STAT239]
-Miembros de bandas enemigas abatidos
+Enemy gang members killed
 
 [STAT240]
-Miembros de bandas amigas abatidos
+Friendly gang members killed
 
 [STAT241]
-Herraduras recogidas
+Horseshoes collected
 
 [STAT242]
-Total de herraduras
+Total horseshoes
 
 [STAT243]
-Ostras recogidas
+Oysters collected
 
 [STAT244]
-Total de ostras
+Total oysters
 
 [STAT245]
-Calorías
+Calories
 
 [STAT320]
-Tiempo de juego
+Playing time
 
 [STAT321]
-Paquetes ocultos encontrados
+Hidden Packages found
 
 [STAT323]
-Banda menos usada
+Least favorite gang
 
 [STAT324]
-Miembros de banda liquidados
+Gang members wasted
 
 [STAT325]
-Criminales liquidados
+Criminals wasted
 
 [CURWSKL]
-Hab. de arma
+Weapon skill
 
 [FE_HLPA]
-~k~~PED_SPRINT~ Leyenda Sí/No
+~x~ Legend on/off
 
 [FE_HLPE]
-~k~~VEHICLE_ENTER_EXIT~ Atrás
+~t~ Back
 
 [FE_HLPH]
-~k~~PED_SPRINT~ Seleccionar
+~x~ Select
 
 [FE_HLPJ]
-~k~~GROUP_CONTROL_FWD~
+~u~
 
 [FE_HLPK]
-~k~~GROUP_CONTROL_BWD~
+~d~
 
 [FES_PLA]
-JUGADOR
+PLAYER
 
 [FES_MON]
-DINERO
+MONEY
 
 [FES_WEA]
-ARMAS
+WEAPONS
 
 [FES_CRI]
-CRÍMENES
+CRIMES
 
 [FES_ACH]
-LOGROS
+ACHIEVEMENTS
 
 [FES_MIS]
-MISIÓN
+MISSION
 
 [FES_MSC]
-VARIOS
+MISC
 
 [FES_GAN]
-BANDAS
+GANGS
 
 [FES_ONL]
-¡CONECTAR ONLINE!
+GO ONLINE!
 
 [DEBW0]
 EXTRA SUNNY LA
@@ -6227,247 +6233,247 @@ EXTRA COLOURS 1
 EXTRA COLOURS 2
 
 [GW_PROV]
-~w~Has provocado una guerra de bandas.
+~w~You have provoked a gang war
 
 [GW_CLR1]
-~w~¡Has sobrevivido a la primera oleada!
+~w~You survived the first wave!
 
 [GW_CLR2]
-~w~¡Has sobrevivido a la segunda oleada!
+~w~You survived the second wave!
 
 [GW_YRS]
-~w~¡Este barrio es tuyo!
+~w~This hood is yours!
 
 [GW_FLEE]
-~w~Has huido de la pelea. ¡Qué mal!
+~w~You fled the fight. Poor show!
 
 [GW_WARN]
-~w~¡Vuelve a la zona de guerra!
+~w~Get back into the war zone!
 
 [GW_ATK]
-~w~¡Están atacando nuestro barrio!
+~w~Our 'hood is under attack!
 
 [GW_WON]
-~w~Eso les enseñará. ¡Esta zona sigue siendo tuya!
+~w~That showed them. The area remains yours!
 
 [GW_NOSH]
-~w~¡No has respondido al ataque! Has perdido influencia.
+~w~You left the attack unchecked! You lost influence.
 
 [GW_SLOW]
-~w~¡Has tardado demasiado! Has perdido influencia.
+~w~It's taken too long! You lost influence.
 
 [SSTSPT0]
-~h~Resistencia~w~ mejorada. Ahora puedes esprintar, nadar y pedalear más tiempo.
+~h~Stamina~w~ - Upgraded. You can now sprint, swim and cycle for longer.
 
 [SSTSPT1]
-~h~Resistencia~w~ mejorada. Has llegado al máximo.
+~h~Stamina~w~ - Upgraded. Maximum reached.
 
 [SBOFAT0]
-~h~Gordura~w~ aumentada. Estás ganando peso. No podrás trepar a muros altos, esprintar o saltar si engordas demasiado.
+~h~Body Fat~w~ - Increased. You are gaining weight. You will not be able to climb high walls, sprint or jump if you get too fat.
 
 [SBOFAT1]
-~h~Gordura~w~ aumentada. Estás engordando. Ve al gimnasio y haz ejercicio, o corre un poco.
+~h~Body Fat~w~ - Increased. You're getting chubby. Go to the gym and work out or do some running.
 
 [SBOFAT2]
-~h~Gordura~w~ aumentada. Estás gordo.
+~h~Body Fat~w~ - Increased. You're flabby.
 
 [SBOFAT3]
-~h~Gordura~w~ aumentada. Estás muy gordo.
+~h~Body Fat~w~ - Increased. You're obese.
 
 [SBOFAT4]
-~h~Gordura~w~ aumentada. Corres el riesgo de sufrir un ataque al corazón, pierde algo de peso.
+~h~Body Fat~w~ - Increased. You run the risk of a heart attack - lose some weight.
 
 [SSTUND0]
-~h~Capacidad pulmonar~w~ mejorada. Puedes aguantar la respiración más tiempo.
+~h~Lung Capacity~w~ - Upgraded. You can hold your breath for longer.
 
 [SSTUND1]
-~h~Capacidad pulmonar~w~ mejorada. Puedes aguantar la respiración más tiempo.
+~h~Lung Capacity~w~ - Upgraded. You can hold your breath for longer.
 
 [SSTUND2]
-~h~Capacidad pulmonar~w~ mejorada. Puedes aguantar la respiración más tiempo.
+~h~Lung Capacity~w~ - Upgraded. You can hold your breath for longer.
 
 [SSTUND3]
-~h~Capacidad pulmonar~w~ mejorada. Puedes aguantar la respiración más tiempo.
+~h~Lung Capacity~w~ - Upgraded. You can hold your breath for longer.
 
 [SSTUND4]
-~h~Capacidad pulmonar~w~ mejorada. Has llegado al máximo.
+~h~Lung Capacity~w~ - Upgraded. Maximum reached.
 
 [SBOMUS0]
-~h~Musculatura~w~ mejorada. Estás en forma. Sigue así y tus ataques infligirán más daño.
+~h~Body Muscle~w~ - Upgraded. You're well-toned. Keep this up and your attacks will inflict more damage.
 
 [SBOMUS1]
-~h~Musculatura~w~ mejorada. Te estás poniendo fuerte.
+~h~Body Muscle~w~ - Upgraded. You're getting buff.
 
 [SBOMUS2]
-~h~Musculatura~w~ mejorada. Te estás poniendo más fuerte.
+~h~Body Muscle~w~ - Upgraded. You're getting much stronger.
 
 [SBOMUS3]
-~h~Musculatura~w~ mejorada. Estás cuadrado.
+~h~Body Muscle~w~ - Upgraded. You're perfectly chiseled.
 
 [SBOMUS4]
-~h~Musculatura~w~ mejorada. Pareces un Sansón.
+~h~Body Muscle~w~ - Upgraded. You're ripped.
 
 [SBOMUS5]
-~h~Musculatura~w~ mejorada. Has llegado al máximo.
+~h~Body Muscle~w~ - Upgraded. Maximum reached.
 
 [SSKBIK0]
-~h~Habilidad con motos~w~ mejorada. Tienes menos posibilidades de caerte de la moto.
+~h~Bike Skill~w~ - Upgraded. You have less chance of falling from your motorbike.
 
 [SSKBIK1]
-~h~Habilidad con motos~w~ mejorada. Tienes menos posibilidades de caerte de la moto.
+~h~Bike Skill~w~ - Upgraded. You have less chance of falling from your motorbike.
 
 [SSKBIK2]
-~h~Habilidad con motos~w~ mejorada. Tienes menos posibilidades de caerte de la moto.
+~h~Bike Skill~w~ - Upgraded. You have less chance of falling from your motorbike.
 
 [SSKBIK3]
-~h~Habilidad con motos~w~ mejorada. Tienes menos posibilidades de caerte de la moto.
+~h~Bike Skill~w~ - Upgraded. You have less chance of falling from your motorbike.
 
 [SSKBIK4]
-~h~Habilidad con motos~w~ mejorada. Has llegado al máximo.
+~h~Bike Skill~w~ - Upgraded. Maximum reached.
 
 [SRES_]
-~h~Respeto~w~ mejorado. A medida que tu respeto aumente, podrás llevar a más miembros de la banda. Ganar respeto también sirve para muchas otras cosas.
+~h~Respect~w~ - Upgraded. As your respect increases you will be able to command more gang members. Gaining respect will also help in many other ways.
 
 [SRES0]
-~h~Respeto~w~ mejorado. ¡Ahora puedes llevar un grupo de dos hombres!
+~h~Respect~w~ - Upgraded. You can now run a two man gang!
 
 [SRES1]
-~h~Respeto~w~ mejorado. ¡Ahora puedes llevar un grupo de tres hombres!
+~h~Respect~w~ - Upgraded. You can now run a three man gang!
 
 [SRES2]
-~h~Respeto~w~ mejorado. ¡Ahora puedes llevar un grupo de cuatro hombres!
+~h~Respect~w~ - Upgraded. You can now run a four man gang!
 
 [SRES3]
-~h~Respeto~w~ mejorado. ¡Ahora puedes llevar un grupo de cinco hombres!
+~h~Respect~w~ - Upgraded. You can now run a five man gang!
 
 [SRES4]
-~h~Respeto~w~ mejorado. ¡Ahora puedes llevar un grupo de seis hombres!
+~h~Respect~w~ - Upgraded. You can now run a six man gang!
 
 [SRES5]
-~h~Respeto~w~ mejorado. ¡Ahora puedes llevar un grupo de siete hombres!
+~h~Respect~w~ - Upgraded. You can now run a seven man gang!
 
 [SRESN0]
-~h~Respeto~w~ perdido. ¡Ahora nadie te seguirá!
+~h~Respect~w~ - Lost. No-one will follow you now!
 
 [SRESN1]
-~h~Respeto~w~ perdido. ¡Ahora solo puedes llevar a un grupo de dos hombres!
+~h~Respect~w~ - Lost. You can now only run a two man gang!
 
 [SRESN2]
-~h~Respeto~w~ perdido. ¡Ahora solo puedes llevar a un grupo de tres hombres!
+~h~Respect~w~ - Lost. You can now only run a three man gang!
 
 [SRESN3]
-~h~Respeto~w~ perdido. ¡Ahora solo puedes llevar a un grupo de cuatro hombres!
+~h~Respect~w~ - Lost. You can now only run a four man gang!
 
 [SRESN4]
-~h~Respeto~w~ perdido. ¡Ahora solo puedes llevar a un grupo de cinco hombres!
+~h~Respect~w~ - Lost. You can now only run a five man gang!
 
 [SRESN5]
-~h~Respeto~w~ perdido. ¡Ahora solo puedes llevar a un grupo de seis hombres!
+~h~Respect~w~ - Lost. You can now only run a six man gang!
 
 [SSKCYC0]
-~h~Habilidad con bicicletas~w~ mejorada. Puedes impulsarte para saltar más alto e ir hacia atrás a mayor velocidad sin caerte.
+~h~Cycling Skill~w~ - Upgraded. You can bunny hop higher and can reverse at higher speeds without falling off.
 
 [SSKCYC1]
-~h~Habilidad con bicicletas~w~ mejorada. Puedes impulsarte para saltar más alto e ir hacia atrás a mayor velocidad sin caerte.
+~h~Cycling Skill~w~ - Upgraded. You can bunny hop higher and can reverse at higher speeds without falling off.
 
 [SSKCYC2]
-~h~Habilidad con bicicletas~w~ mejorada. Puedes impulsarte para saltar más alto e ir hacia atrás a mayor velocidad sin caerte.
+~h~Cycling Skill~w~ - Upgraded. You can bunny hop higher and can reverse at higher speeds without falling off.
 
 [SSKCYC3]
-~h~Habilidad con bicicletas~w~ mejorada. Puedes impulsarte para saltar más alto e ir hacia atrás a mayor velocidad sin caerte.
+~h~Cycling Skill~w~ - Upgraded. You can bunny hop higher and can reverse at higher speeds without falling off.
 
 [SSKCYC4]
-~h~Habilidad con bicicletas~w~ mejorada. Has llegado al máximo.
+~h~Cycling Skill~w~ - Upgraded. Maximum reached.
 
 [SSTFLY0]
-~h~Habilidad de vuelo~w~ mejorada. Sigue practicando y recibirás una licencia de piloto.
+~h~Flying Skill~w~ - Upgraded. Keep practising and you will receive a pilots licence.
 
 [SSTFLY1]
-~h~Habilidad de vuelo~w~ mejorada. Licencia de piloto obtenida. Ahora puedes acceder a todos los aeropuertos.
+~h~Flying Skill~w~ - Upgraded. Pilots licence obtained. You can now access all airports.
 
 [SWPIST]
-~h~Habilidad con pistola~w~ a nivel de gánster. Tu alcance para fijar blanco, precisión, cadencia de disparo y velocidad de desplazamiento lateral han aumentado.
+~h~Pistol Skill~w~ - Gangster level reached. Lock-on range, accuracy and rate of fire have all increased.
 
 [SWPIPR]
-~h~Habilidad con pistola~w~ a nivel de asesino. Ahora puedes empuñar dos pistolas a la vez y tienes más alcance para fijar blanco.
+~h~Pistol Skill~w~ - Hitman level reached. You can now wield two pistols simultaneously and your lock-on range has increased.
 
 [SWSPST]
-~h~Habilidad con pistola con silenciador~w~ a nivel de gánster. Puedes disparar mientras te mueves. Tu alcance para fijar blanco, precisión, cadencia de disparo y velocidad de desplazamiento lateral han aumentado.
+~h~Silenced Pistol Skill~w~ - Gangster level reached. You can now move while in the aiming stance. Lock-on range, accuracy, rate of fire and strafe speed have all increased.
 
 [SWSPPR]
-~h~Habilidad con pistola con silenciador~w~ a nivel de asesino. Puedes disparar mientras te mueves. Tu alcance para fijar blanco, precisión, cadencia de disparo y velocidad de desplazamiento lateral han aumentado.
+~h~Silenced Pistol Skill~w~ - Hitman level reached. You can now fire while moving. Lock-on range, accuracy, rate of fire and strafe speed have all increased.
 
 [SWDEST]
-~h~Habilidad con Desert Eagle~w~ a nivel de gánster. Puedes disparar mientras te mueves. Tu alcance para fijar blanco, precisión, cadencia de disparo y velocidad de desplazamiento lateral han aumentado.
+~h~Desert Eagle Skill~w~ - Gangster level reached. You can now move while in the aiming stance. Lock-on range, accuracy, rate of fire and strafe speed have all increased.
 
 [SWDEPR]
-~h~Habilidad con Desert Eagle~w~ a nivel de asesino. Puedes disparar mientras te mueves. Tu alcance para fijar blanco, precisión, cadencia de disparo y velocidad de desplazamiento lateral han aumentado.
+~h~Desert Eagle Skill~w~ - Hitman level reached. You can now fire while moving. Lock-on range, accuracy, rate of fire and strafe speed have all increased.
 
 [SWSGST]
-~h~Habilidad con escopeta~w~ a nivel de gánster. Puedes moverte con la postura de apuntar. Tu alcance para fijar blanco, precisión, cadencia de disparo y velocidad de desplazamiento lateral han aumentado.
+~h~Shotgun Skill~w~ - Gangster level reached. You can now move while in the aiming stance. Lock-on range, accuracy, rate of fire and strafe speed have all increased.
 
 [SWSGPR]
-~h~Habilidad con escopeta~w~ a nivel de asesino. Puedes disparar mientras te mueves. Tu alcance para fijar blanco, precisión, cadencia de disparo y velocidad de desplazamiento lateral han aumentado.
+~h~Shotgun Skill~w~ - Hitman level reached. You can now fire while moving. Lock-on range, accuracy, rate of fire and strafe speed have all increased.
 
 [SWSSST]
-~h~Habilidad con escopeta recortada~w~ a nivel de gánster. Tu alcance para fijar blanco, precisión y cadencia de disparo han aumentado.
+~h~Sawn-Off Shotgun Skill~w~ - Gangster level reached. Your lock-on range, accuracy and rate of fire have increased.
 
 [SWSSPR]
-~h~Habilidad con escopeta recortada~w~ a nivel de asesino. Ahora puedes empuñar dos recortadas a la vez y tienes más alcance para fijar blanco.
+~h~Sawn-Off Shotgun Skill~w~ - Hitman level reached. You may now wield two sawn-off shotguns simultaneously and your lock-on range has increased.
 
 [SWSZST]
-~h~Habilidad con escopeta de combate~w~ a nivel de gánster. Puedes moverte con la postura de apuntar. Tu alcance para fijar blanco, cadencia de disparo y velocidad de desplazamiento lateral han aumentado.
+~h~Combat Shotgun Skill~w~ - Gangster level reached. You can now move while in the aiming stance. Lock-on range, rate of fire and strafe speed have all increased.
 
 [SWSZPR]
-~h~Habilidad con escopeta de combate~w~ a nivel de asesino. Puedes disparar mientras te mueves. Tu alcance para fijar blanco y velocidad de desplazamiento lateral han aumentado.
+~h~Combat Shotgun Skill~w~ - Hitman level reached. You can now fire while moving. Lock-on range and strafe speed have both increased.
 
 [SWMUST]
-~h~Habilidad con metralleta~w~ a nivel de gánster. Tu alcance para fijar blanco y precisión han aumentado.
+~h~Machine Pistol Skill~w~ - Gangster level reached. Your lock-on range and accuracy have increased.
 
 [SWMUPR]
-~h~Habilidad con metralleta~w~ a nivel de asesino. Ahora puedes empuñar dos metralletas a la vez y tu alcance para fijar blanco ha mejorado.
+~h~Machine Pistol Skill~w~ - Hitman level reached. You can now wield two Machine Pistols simultaneously and your lock-on range has increased.
 
 [SWM5ST]
-~h~Habilidad con subfusil~w~ a nivel de gánster. Puedes moverte con la postura de apuntar. Tu alcance para fijar blanco, precisión y velocidad de desplazamiento lateral han aumentado.
+~h~SMG Skill~w~ - Gangster level reached. You can now move while in the aiming stance. Lock-on range, accuracy and strafe speed have all increased.
 
 [SWM5PR]
-~h~Habilidad con subfusil~w~ a nivel de asesino. Puedes disparar mientras te mueves. Tu alcance para fijar blanco, precisión y velocidad de desplazamiento lateral han aumentado.
+~h~SMG Skill~w~ - Hitman level reached. You can now fire while moving. Lock-on range, accuracy and strafe speed have all increased.
 
 [SWM4ST]
-~h~Habilidad con M4~w~ a nivel de gánster. Puedes moverte con la postura de apuntar. Tu alcance para fijar blanco, precisión y velocidad de desplazamiento lateral han aumentado.
+~h~M4 Skill~w~ - Gangster level reached. You can now move while in the aiming stance. Lock-on range, accuracy and strafe speed have all increased.
 
 [SWM4PR]
-~h~Habilidad con M4~w~ a nivel de asesino. Puedes disparar mientras te mueves. Tu alcance para fijar blanco, precisión y velocidad de desplazamiento lateral han aumentado.
+~h~M4 Skill~w~ - Hitman level reached. You can now fire while moving. Lock-on range, accuracy and strafe speed have all increased.
 
 [SWAKST]
-~h~Habilidad con AK-47~w~ a nivel de gánster. Puedes moverte con la postura de apuntar. Tu alcance para fijar blanco, precisión y velocidad de desplazamiento lateral han aumentado.
+~h~AK-47 Skill~w~ - Gangster level reached. You can now move while in the aiming stance. Lock-on range, accuracy and strafe speed have all increased.
 
 [SWAKPR]
-~h~Habilidad con AK-47~w~ a nivel de asesino. Puedes disparar mientras te mueves. Tu alcance para fijar blanco, precisión y velocidad de desplazamiento lateral han aumentado.
+~h~AK-47 Skill~w~ - Hitman level reached. You can now fire while moving. Lock-on range, accuracy and strafe speed have all increased.
 
 [SWSRST]
-~h~Habilidad con rifle~w~ a nivel de gánster. Puedes disparar mientras te mueves y tu velocidad de desplazamiento lateral ha aumentado.
+~h~Rifle Skill~w~ - Gangster level reached. You can fire while moving and your strafe speed has increased.
 
 [SWSRPR]
-~h~Habilidad con rifle~w~ a nivel de asesino. Tu velocidad de desplazamiento lateral ha aumentado.
+~h~Rifle Skill~w~ - Hitman level reached. Your strafe speed has increased.
 
 [SGPUNT]
-~h~Habilidad de apuestas~w~ a nivel de jugador. Tu apuesta máxima ha aumentado a 1.000 $. Ahora el casino te fía hasta 1.000 $.
+~h~Gambling Skill~w~ - Gambler level reached. Your maximum wager has increased to $1,000. You can now borrow up to $1,000 from the casino.
 
 [SGGAMB]
-~h~Habilidad de apuestas~w~ a nivel de tahúr. Tu apuesta máxima ha aumentado a 10.000 $. Ahora el casino te fía hasta 10.000 $.
+~h~Gambling Skill~w~ - Professional level reached. Your maximum wager has increased to $10,000. You can now borrow up to $10,000 from the casino.
 
 [SGPROF]
-~h~Habilidad de apuestas~w~ a nivel de profesional. Tu apuesta máxima ha aumentado a 100.000 $. Ahora el casino te fía hasta 100.000 $.
+~h~Gambling Skill~w~ - Hi-roller level reached. Your maximum wager has increased to $100,000. You can now borrow up to $100,000 from the casino.
 
 [SGHIRO]
-~h~Habilidad de apuestas~w~ a nivel de profesional de élite. Tu apuesta máxima ha aumentado a 1.000.000 $. Ahora el casino te fía hasta 1.000.000 $.
+~h~Gambling Skill~w~ - Whale level reached. Your maximum wager has increased to $1,000,000. You can now borrow up to $1,000,000 from the casino.
 
 [ITBEG]
-In the Beginning
+In the beginning
 
 [MONTH1]
-Ene
+Jan
 
 [MONTH2]
 Feb
@@ -6476,7 +6482,7 @@ Feb
 Mar
 
 [MONTH4]
-Abr
+Apr
 
 [MONTH5]
 May
@@ -6488,10 +6494,10 @@ Jun
 Jul
 
 [MONTH8]
-Ago
+Aug
 
 [MONTH9]
-Sep
+Sept
 
 [MONTH10]
 Oct
@@ -6500,100 +6506,94 @@ Oct
 Nov
 
 [MONTH12]
-Dic
+Dec
 
 [FES_SES]
-Selecciona el archivo en el que deseas guardar:
+Select file you wish to save to:
 
 [FES_SEL]
-Selecciona archivo guardado para cargar:
+Select save file to load:
 
 [FES_SED]
-Selecciona archivo guardado para borrar:
+Select save file to delete:
 
 [FESZ_QR]
-¿Seguro que deseas comenzar una nueva partida? Todo el progreso de juego actual se perderá. ¿Continuar?
+Are you sure you want to start a new game? All current game progress will be lost. Proceed?
 
 [FESZ_QM]
-¿Seguro que quieres cargar un Mission Pack de San Andreas? Todo el progreso de juego actual se perderá. ¿Continuar?
+Are you sure you want to load a San Andreas Mission Pack? All current game progress will be lost. Proceed?
 
 [FESZ_LS]
-Éxito al cargar.
+Load Successful.
 
 [FESZ_CS]
-Guardado dañado
+Corrupt save
 
 [FES_SCG]
-¿Deseas guardar la partida actual?
+Do you wish to save the current game?
 
 [FES_FMS]
-Éxito al formatear. Selecciona ACEPTAR para continuar.
+Format Successful. Select OK to continue.
 
 [FES_SSC]
-Éxito al guardar. Selecciona ACEPTAR para continuar.
+Save Successful. Select OK to continue.
 
 [FES_DSC]
-Éxito al borrar. Selecciona ACEPTAR para continuar.
+Delete Successful. Select OK to continue.
 
 [FESZ_QC]
-¿Sobrescribir esta partida guardada dañada?
+Proceed with overwriting this corrupted save game?
 
 [FESZ_QZ]
-¿Seguro que quieres guardar?
+Are you sure you wish to save?
 
 [FESZ_QL]
-Todos los progresos no guardados de tu partida actual se perderán. ¿Seguro que quieres cargar?
+All unsaved progress in your current game will be lost. Proceed with loading?
 
 [FESZ_QD]
-¿Seguro que quieres borrar este archivo guardado?
+Are you sure you wish to delete this save file?
 
 [FESZ_QO]
-¿Seguro que quieres sobrescribir este archivo?
+Are you sure you wish to overwrite this save file?
 
 [FES_CHE]
-¡Aviso! Se han activado uno o más trucos. Esto puede afectar a tu partida guardada. Se recomienda que no guardes esta partida.
+Warning! One or more cheats have been activated. This may affect your save game. It is recommended that you do not save this game.
 
 [FES_CMP]
-¡Error al guardar! Se produzco un error al guardar la partida actual. Comprueba tu directorio de partidas guardadas e inténtalo de nuevo.
+Save failed! There was an error while saving the current game. Please check your savegame directory and try again.
 
 [FES_LOE]
-¡Error al cargar! Se produzco un error al cargar la partida actual. Comprueba tu directorio de partidas guardadas.~n~~n~El juego va a reiniciarse.
+Load Failed! There was an error while loading the current game. Please check your savegame directory.~n~~n~Now restarting game.
 
 [FES_LCE]
-¡Error al cargar! Se produzco un error al cargar la partida actual. Comprueba tu directorio de partidas guardadas e inténtalo de nuevo.
+Load Failed! There was an error while loading the current game. Please check your savegame directory and try again.
 
 [FES_DEE]
-¡Error al borrar! Se produzco un error al borrar la partida actual. Comprueba tu directorio de partidas guardadas e inténtalo de nuevo.
+Deleting Failed! There was an error while deleting the current game. Please check your savegame directory and try again.
 
 [FESZ_WR]
-Guardando datos, espere por favor...
+Saving data, please wait...
 
 [FELD_WR]
-Cargando datos, espere for favor...
+Loading data, please wait...
 
 [FEDL_WR]
-Borrando datos, espere por favor...
+Deleting data, please wait...
 
 [FES_LMI]
-Cargar misión
+Load Mission
 
 [FEN_NGS]
-Selecciona qué nueva partida deseas comenzar:
+Please select which new game you wish to start:
 
 [FEN_MPX]
 Mission Pack
 
 [FEM_SNG]
-Iniciar nueva partida
+Start new game
 
 [FELM_WR]
-Cargando partida de Mission Pack, espere por favor...
-
-[CRED992]
-Nick Rees
-
-[CRED991]
-Alastair MacGregor
+Loading Mission Pack Game, please wait...
 
 [DUMMY1]
 THIS LABEL NEEDS TO BE HERE !!!
