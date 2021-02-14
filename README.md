@@ -1,4 +1,4 @@
-# GTA: Spanish Latin American Revision
+# GTA: Latin American Revision
 
 
 ### Español
