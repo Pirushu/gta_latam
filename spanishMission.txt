@@ -1,4 +1,7 @@
-﻿[L3_HELI]
+﻿[SCH_PRS]
+~k~~PED_SPRINT~
+
+[L3_HELI]
 Para nivelar automáticamente un helicóptero, pulsa ~k~~VEHICLE_HORN~.
 
 [IE01]
@@ -4709,7 +4712,7 @@ Puntos
 Tiempo
 
 [BB_20]
-~s~Coge la pelota y vuelve al ~y~marcador~s~.
+~s~Recoge el balón y vuelve al ~y~marcador~s~.
 
 [BJ_TITL]
 Apuesta
@@ -5126,7 +5129,7 @@ Oponente
 ~s~Necesitas la tarjeta de seguridad de Millie para continuar.
 
 [GOODKEY]
-~s~Ahora puedes coger la tarjeta de seguridad de casa de Millie.
+~s~Ahora puedes tomar la tarjeta de seguridad de casa de Millie.
 
 [BADKEY]
 ~s~Vas a tener que robar la tarjeta de seguridad de casa de Millie.
@@ -6328,18 +6331,18 @@ Detonación
 ~w~¡Atrás! ¡O haré que te comas tus jodidos zapatos!
 
 [CA3_20:CASINO3]
-~r~¿Qué diablos? ¡He dicho que sin violencia! ¡Ahora la Mafia va a ponerse en alerta roja! ¡Botarate!
+~r~¿Qué diablos? ¡He dicho que sin violencia! ¡Ahora la Mafia va a ponerse en alerta roja! ¡atolondrado!
 
 [CA3_22:CASINO3]
-~s~¡Atención! ¡Son los curritos! ¡Aléjate de la fábrica para terminar el trabajo!
+~s~¡Atención! ¡Son los becarios! ¡Aléjate de la fábrica para terminar el trabajo!
 
 [CA3_23:CASINO3]
-~s~¡Genial, buen trabajo! ¡Vuelve al ~y~casino de Woozie~s~ de una pieza!
+~s~¡Bien hecho, terminaste el trabajo! ¡Vuelve al ~y~casino de Woozie~s~ de una pieza!
 
 {=================================== MISSION TABLE CASINO4 ===================================}
 
 [CAS4_17:CASINO4]
-Vaya ful, tío, ya no volveré a mirar igual una loncha de beicon...
+Eso no está bien, hombre, nunca volveré a ver una loncha de tocino de la misma manera
 
 [CAS4_18:CASINO4]
 Creo que recuerdo... ¡Espera, ya sé, tú eras el de la videocámara!
@@ -6404,7 +6407,7 @@ No voy a subirme a un maldito autobús, ¡consigue un vehículo en condiciones!
 ~s~La Mafia ha sido alertada mediante una llamada de socorro enviada por la ambulancia a la que acabas de golpear.
 
 [CAS5_31:CASINO5]
-~s~¡Encuentra la ~r~ambulancia~s~ que ha cogido la Mafia antes de que se escapen!
+~s~¡Encuentra la ~r~ambulancia~s~ que ha tomado la Mafia antes de que se escapen!
 
 [CAS5_32:CASINO5]
 ~r~La Mafia ha escapado con Johnny.
@@ -6434,10 +6437,10 @@ No voy a subirme a un maldito autobús, ¡consigue un vehículo en condiciones!
 ~s~Acabas de matar a un médico inocente, Johnny debe de estar en otra ~r~ambulancia~s~.
 
 [CAS5_09:CASINO5]
-~s~Parece que ésta es la ~r~ambulancia~s~ que cogió a Johnny. Destrózala un poco y que sepa la Mafia cómo las gastas.
+~s~Parece que ésta es la ~r~ambulancia~s~ que recogió a Johnny. Destrózala un poco y que sepa la Mafia cómo las gastas.
 
 [CAS5_10:CASINO5]
-~s~Has alertado a la Mafia de tu presencia, destroza un poco la ~r~ambulancia~s~ y demuéstrales cómo las gastas.
+~s~Has alertado a la Mafia de tu presencia, destroza un poco la ~r~ambulancia~s~ y demuéstrales que hablas en serio.
 
 [CAS5_11:CASINO5]
 ~s~Rápido, sube a la ~b~ambulancia~s~ antes de que lleguen refuerzos.
@@ -6546,7 +6549,7 @@ Limusina
 ¡Salgamos de aquí!
 
 [MAF1_8:CASINO7]
-I can't they have blocked both exits with line runners
+No puedo, han bloqueado ambas salidas con corredores de línea
 
 [MAF1_9:CASINO7]
 ¡Mierda! ¡Haz algo!
